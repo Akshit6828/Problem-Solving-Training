@@ -59,7 +59,7 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
     </tbody>
 </table>
 
-<a href="/level-2/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
+<a href="/level-1/README.md/#atcoder-oj-sheets"><img align="right" width="80" src="/logos/atcoder.png"></img></a>
 <br>
 
 ## `AtCoder OJ sheets`
