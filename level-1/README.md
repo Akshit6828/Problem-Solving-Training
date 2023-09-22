@@ -21,7 +21,7 @@ Problem Solving Training for computer science students.
 
 ## `Level 1`
 
-This level simply consists of 12 sheets, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 2 sheets on AtCoder Online Judge.
+This level simply consists of 14 sheets, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 4 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/main/Programming-Languages-and-Object-Oriented/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -67,30 +67,42 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
 The AtCoder OJ sheets:
 [[phase-1-1](/level-1/atcoder/phase-1-1)],
 [[phase-1-2](/level-1/atcoder/phase-1-2)],
-These sheets contain beginner contests (easy contests and each sheet contains ~180 problems.
+[[phase-1-3](/level-1/atcoder/phase-1-3)],
+[[phase-1-4](/level-1/atcoder/phase-1-4)],
+These sheets contain beginner contests (easy contests and each sheet contains ~90 problems.
 
 <table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-1">phase-1-1</a></th>
-<th align="center" width="150px">180 problems</th>
+<th align="center" width="150px">90 problems</th>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-2">phase-1-2</a></th>
-<th align="center" width="150px">180 problems</th>
+<th align="center" width="150px">90 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td>
-            <td>2016-2017 Beginner Contests I </td><td align="center">20 problems</td></tr>
-        <tr><td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td>
-            <td>2018-2019 Beginner Contests I </td><td align="center">30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td>
-            <td>2020-2021 Beginner Contests I </td><td align="center">40 problems</td></tr>
-        <tr><td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td>
-            <td>2016-2017 Beginner Contests II</td><td align="center">20 problems</td></tr>
-        <tr><td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td>
-            <td>2018-2019 Beginner Contests II</td><td align="center">30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td>
-            <td>2020-2021 Beginner Contests II</td><td align="center">40 problems</td></tr>
+        <tr><td>2016-2017 Beginner Contests</td><td align="center">20 problems</td>
+            <td>2016-2017 Beginner Contests</td><td align="center">20 problems</td></tr>
+        <tr><td>2018-2019 Beginner Contests</td><td align="center">30 problems</td>
+            <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align="center">40 problems</td>
+            <td>2020-2021 Beginner Contests</td><td align="center">40 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-3">phase-1-3</a></th>
+<th align="center" width="150px">90 problems</th>
+<th align="center" width="400px"><a href="/level-1/atcoder/phase-1-4">phase-1-4</a></th>
+<th align="center" width="150px">90 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>2016-2017 Beginner Contests</td><td align="center">20 problems</td>
+            <td>2016-2017 Beginner Contests</td><td align="center">20 problems</td></tr>
+        <tr><td>2018-2019 Beginner Contests</td><td align="center">30 problems</td>
+            <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align="center">40 problems</td>
+            <td>2020-2021 Beginner Contests</td><td align="center">40 problems</td></tr>
     </tbody>
 </table>
 
