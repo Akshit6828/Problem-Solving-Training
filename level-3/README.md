@@ -66,7 +66,7 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
     </tbody>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-3/hackerrank/graph-string">graph-string</a></th>
+<th align="center" width="400px"><a href="/level-3/hackerrank/graph-string">graph-and-string</a></th>
 <th align="center" width="150px">130 problems</th>
 <th align="center" width="400px"><a href="/level-3/hackerrank/dynamic-programming">dynamic-programming</a></th>
 <th align="center" width="150px">130 problems</th>
@@ -260,36 +260,62 @@ that focus on gym-contests that contains ~125 contests.
 ## `LeetCode OJ sheets`
 
 The LeetCode OJ sheets:
-[[tree-graph-traversal](/level-3/leetcode/tree-graph-traversal)],
-[[graph-advanced-data-structures](/level-3/leetcode/graph-advanced-data-structures)],
-[[mathematics-strings](/level-3/leetcode/mathematics-strings)],
-[[dynamic-programming](/level-3/leetcode/dynamic-programming)],
-[[interviews-questions-1](/level-3/leetcode/interviews-questions-1)],
-[[interviews-questions-2](/level-3/leetcode/interviews-questions-2)],
+[[linear-data-structures](/level-2/leetcode/linear-data-structures)],
+[[non-linear-data-structures](/level-2/leetcode/non-linear-data-structures)],
+[[basic-algorithms](/level-2/leetcode/basic-algorithms)],
+[[graph-theory](/level-2/leetcode/graph-theory)],
+[[mathematics-and-strings](/level-2/leetcode/mathematics-strings)],
+[[dynamic-programming](/level-2/leetcode/dynamic-programming)],
 These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dynamic programming problems, in addition to advanced data structures. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
 
 <table>
     <thead>
         <tr>
-<td align="center" width="400px"><a href="/level-3/leetcode/tree-graph-traversal">tree-graph-traversal</a></td>
-<th align="center" width="150px">160 problems</th>
-<td align="center" width="400px"><a href="/level-3/leetcode/graph-advanced-data-structures">graph-advanced-data-structures</a></td>
+<th align="center" width="400px"><a href="/level-3/leetcode/linear-data-structures">linear-data-structures</a></th>
+<th align="center" width="150px">210 problems</th>
+<td align="center" width="400px"><a href="/level-3/leetcode/non-linear-data-structures">non-linear-data-structures</a></td>
 <th align="center" width="150px">190 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Breadth First Search I   </td><td align="center">25 problems</td>
-            <td>Backtracking I           </td><td align="center">35 problems</td></tr>
-        <tr><td>Breadth First Search II  </td><td align="center">25 problems</td>
-            <td>Backtracking II          </td><td align="center">35 problems</td></tr>
-        <tr><td>Breadth First Search III </td><td align="center">25 problems</td>
-            <td>Graph  I                 </td><td align="center">30 problems</td></tr>
-        <tr><td>Depth First Search I     </td><td align="center">30 problems</td>
-            <td>Graph  II                </td><td align="center">30 problems</td></tr>
-        <tr><td>Depth First Search II    </td><td align="center">30 problems</td>
-            <td>Advanced Data Structures </td><td align="center">40 problems</td></tr>
-        <tr><td>Depth First Search III   </td><td align="center">25 problems</td>
-            <td>Geometry                 </td><td align="center">20 problems</td></tr>
+        <tr><td>Array I                     </td><td align="center">35 problems</td>
+            <td>Binary Tree I               </td><td align="center">35 problems</td></tr>
+        <tr><td>Array II                    </td><td align="center">40 problems</td>
+            <td>Binary Tree II              </td><td align="center">35 problems</td></tr>
+        <tr><td>Array III                   </td><td align="center">40 problems</td>
+            <td>Heap Tree                   </td><td align="center">30 problems</td></tr>
+        <tr><td>Array IV                    </td><td align="center">40 problems</td>
+            <td>Hash Table I                </td><td align="center">25 problems</td></tr>
+        <tr><td>Linked List                 </td><td align="center">20 problems</td>
+            <td>Hash Table II               </td><td align="center">25 problems</td></tr>
+        <tr><td>Stack                       </td><td align="center">10 problems</td>
+            <td>Advanced Data Structures I  </td><td align="center">20 problems</td></tr>
+        <tr><td>Queue and Dequeue           </td><td align="center">25 problems</td>
+            <td>Advanced Data Structures II </td><td align="center">20 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align="center" width="400px"><a href="/level-3/leetcode/basic-algorithms">basic-algorithms</a></td>
+<th align="center" width="150px">190 problems</th>
+<td align="center" width="400px"><a href="/level-3/leetcode/graph-theory">graph-theory</a></td>
+<th align="center" width="150px">150 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Binary Search	        </td><td align="center">30 problems</td>
+            <td>Backtracking I          </td><td align="center">25 problems</td></tr>
+        <tr><td>Greedy I	            </td><td align="center">30 problems</td>
+            <td>Backtracking II         </td><td align="center">25 problems</td></tr>
+        <tr><td>Greedy II               </td><td align="center">30 problems</td>
+            <td>Backtracking III        </td><td align="center">20 problems</td></tr>
+        <tr><td>Greedy III              </td><td align="center">20 problems</td>
+            <td>Graph  I                </td><td align="center">20 problems</td></tr>
+        <tr><td>Greedy IV               </td><td align="center">20 problems</td>
+            <td>Graph  II               </td><td align="center">20 problems</td></tr>
+        <tr><td>Sorting	                </td><td align="center">40 problems</td>
+            <td>Graph  III              </td><td align="center">20 problems</td></tr>
+        <tr><td>Bit Manipulation        </td><td align="center">20 problems</td>
+            <td>Geometry                </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -312,25 +338,6 @@ These sheets contain string, graph, bfs, dfs, mathematics, backtracking, and dyn
             <td>Dynamic Programming V   </td><td align="center">35 problems</td></tr>
         <tr><td>String III              </td><td align="center">25 problems</td>
             <td>Dynamic Programming VI  </td><td align="center">30 problems</td></tr>
-    </tbody>
-        <tr>
-<td align="center" width="400px"><a href="/level-3/leetcode/interviews-questions-1">interviews-questions-1</a></td>
-<th align="center" width="150px">170 problems</th>
-<td align="center" width="400px"><a href="/level-3/leetcode/interviews-questions-2">interviews-questions-2</a></td>
-<th align="center" width="150px">170 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Easy Problems       </td><td align="center">35 problems</td>
-            <td>Easy Problems       </td><td align="center">35 problems</td></tr>
-        <tr><td>Medium Problems I   </td><td align="center">35 problems</td>
-            <td>Medium Problems I   </td><td align="center">35 problems</td></tr>
-        <tr><td>Medium Problems II  </td><td align="center">35 problems</td>
-            <td>Medium Problems II  </td><td align="center">35 problems</td></tr>
-        <tr><td>Medium Problems III </td><td align="center">35 problems</td>
-            <td>Medium Problems III </td><td align="center">35 problems</td></tr>
-        <tr><td>Hard Problems       </td><td align="center">30 problems</td>
-            <td>Hard Problems       </td><td align="center">30 problems</td></tr>
     </tbody>
 </table>
 

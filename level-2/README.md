@@ -203,82 +203,82 @@ For the last 2 optional sheets:
 ## `LeetCode OJ sheets`
 
 The LeetCode OJ sheets:
-[[linear-data-structures-1](/level-2/leetcode/linear-data-structures-1)],
-[[linear-data-structures-2](/level-2/leetcode/linear-data-structures-2)],
-[[non-linear-data-structures-1](/level-2/leetcode/non-linear-data-structures-1)],
-[[non-linear-data-structures-2](/level-2/leetcode/non-linear-data-structures-2)],
-[[basic-algorithms-1](/level-2/leetcode/basic-algorithms-1)],
-[[basic-algorithms-2](/level-2/leetcode/basic-algorithms-2)],
-each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~190 problems.
+[[linear-data-structures](/level-2/leetcode/linear-data-structures)],
+[[non-linear-data-structures](/level-2/leetcode/non-linear-data-structures)],
+[[basic-algorithms](/level-2/leetcode/basic-algorithms)],
+[[tree-and-graph-traversal](/level-2/leetcode/tree-graph-traversal)],
+[[interviews-questions-1](/level-2/leetcode/interviews-questions-1)],
+[[interviews-questions-2](/level-2/leetcode/interviews-questions-2)],
+each sheet of them divided into (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~180 problems.
 
 <table>
     <thead>
         <tr>
-<th align="center" width="400px"><a href="/level-2/leetcode/linear-data-structures-1">linear-data-structures-1</a></th>
+<th align="center" width="400px"><a href="/level-2/leetcode/linear-data-structures">linear-data-structures</a></th>
 <th align="center" width="150px">210 problems</th>
-<th align="center" width="400px"><a href="/level-2/leetcode/linear-data-structures-2">linear-data-structures-2</a></th>
-<th align="center" width="150px">210 problems</th>
+<td align="center" width="400px"><a href="/level-2/leetcode/non-linear-data-structures">non-linear-data-structures</a></td>
+<th align="center" width="150px">190 problems</th>
         </tr>
     </thead>
     <tbody>
         <tr><td>Array I          </td><td align="center">40 problems</td>
-            <td>Array I          </td><td align="center">35 problems</td></tr>
+            <td>Recursion        </td><td align="center">30 problems</td></tr>
         <tr><td>Array II         </td><td align="center">40 problems</td>
-            <td>Array II         </td><td align="center">40 problems</td></tr>
+            <td>Binary Tree I    </td><td align="center">30 problems</td></tr>
         <tr><td>Array III        </td><td align="center">40 problems</td>
-            <td>Array III        </td><td align="center">40 problems</td></tr>
+            <td>Binary Tree II   </td><td align="center">30 problems</td></tr>
         <tr><td>Linked List      </td><td align="center">20 problems</td>
-            <td>Array IV         </td><td align="center">40 problems</td></tr>
+            <td>Heap Tree        </td><td align="center">25 problems</td></tr>
         <tr><td>Stack I          </td><td align="center">25 problems</td>
-            <td>Linked List      </td><td align="center">20 problems</td></tr>
+            <td>Hash Table I     </td><td align="center">25 problems</td></tr>
         <tr><td>Stack II         </td><td align="center">25 problems</td>
-            <td>Stack            </td><td align="center">10 problems</td></tr>
+            <td>Hash Table II    </td><td align="center">25 problems</td></tr>
         <tr><td>Queue and Dequeue</td><td align="center">20 problems</td>
-            <td>Queue and Dequeue</td><td align="center">25 problems</td></tr>
+            <td>Hash Table III   </td><td align="center">25 problems</td></tr>
     </tbody>
     <thead>
         <tr>
-<td align="center" width="400px"><a href="/level-2/leetcode/non-linear-data-structures-1">non-linear-data-structures-1</a></td>
+<td align="center" width="400px"><a href="/level-2/leetcode/basic-algorithms">basic-algorithms-1</a></td>
+<th align="center" width="150px">190 problems</th>
+<td align="center" width="400px"><a href="/level-2/leetcode/tree-graph-traversal">tree-and-graph-traversal</a></td>
+<th align="center" width="150px">160 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Binary Search I          </td><td align="center">35 problems</td>
+            <td>Breadth First Search I   </td><td align="center">25 problems</td></tr>
+        <tr><td>Binary Search II         </td><td align="center">35 problems</td>
+            <td>Breadth First Search II  </td><td align="center">25 problems</td></tr>
+        <tr><td>Divide and Conquer       </td><td align="center">20 problems</td>
+            <td>Breadth First Search III </td><td align="center">25 problems</td></tr>
+        <tr><td>Sorting                  </td><td align="center">40 problems</td>
+            <td>Depth First Search I     </td><td align="center">25 problems</td></tr>
+        <tr><td>Greedy I                 </td><td align="center">20 problems</td>
+            <td>Depth First Search II    </td><td align="center">20 problems</td></tr>
+        <tr><td>Greedy II                </td><td align="center">20 problems</td>
+            <td>Depth First Search III   </td><td align="center">20 problems</td></tr>
+        <tr><td>Bit Manipulation         </td><td align="center">20 problems</td>
+            <td>Depth First Search IV    </td><td align="center">20 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align="center" width="400px"><a href="/level-2/leetcode/interviews-questions-1">interviews-questions-1</a></td>
 <th align="center" width="150px">170 problems</th>
-<td align="center" width="400px"><a href="/level-2/leetcode/non-linear-data-structures-2">non-linear-data-structures-2</a></td>
+<td align="center" width="400px"><a href="/level-2/leetcode/interviews-questions-2">interviews-questions-2</a></td>
 <th align="center" width="150px">170 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Recursion      </td><td align="center">30 problems</td>
-            <td>Binary Tree I  </td><td align="center">30 problems</td></tr>
-        <tr><td>Binary Tree    </td><td align="center">30 problems</td>
-            <td>Binary Tree II </td><td align="center">30 problems</td></tr>
-        <tr><td>Heap Tree      </td><td align="center">30 problems</td>
-            <td>Binary Tree III</td><td align="center">30 problems</td></tr>
-        <tr><td>Hash Table I   </td><td align="center">30 problems</td>
-            <td>Heap Tree      </td><td align="center">30 problems</td></tr>
-        <tr><td>Hash Table II  </td><td align="center">25 problems</td>
-            <td>Hash Table I   </td><td align="center">25 problems</td></tr>
-        <tr><td>Hash Table III </td><td align="center">25 problems</td>
-            <td>Hash Table II  </td><td align="center">25 problems</td></tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align="center" width="400px"><a href="/level-2/leetcode/basic-algorithms-1">basic-algorithms-1</a></td>
-<th align="center" width="150px">190 problems</th>
-<td align="center" width="400px"><a href="/level-2/leetcode/basic-algorithms-2">basic-algorithms-2</a></td>
-<th align="center" width="150px">190 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Binary Search I    </td><td align="center">35 problems</td>
-            <td>Binary Search      </td><td align="center">30 problems</td></tr>
-        <tr><td>Binary Search II   </td><td align="center">35 problems</td>
-            <td>Greedy I           </td><td align="center">40 problems</td></tr>
-        <tr><td>Divide and Conquer </td><td align="center">20 problems</td>
-            <td>Greedy II          </td><td align="center">40 problems</td></tr>
-        <tr><td>Sorting I          </td><td align="center">40 problems</td>
-            <td>Greedy III         </td><td align="center">40 problems</td></tr>
-        <tr><td>Sorting II         </td><td align="center">40 problems</td>
-            <td>Bit Manipulation I </td><td align="center">20 problems</td></tr>
-        <tr><td>Greedy             </td><td align="center">20 problems</td>
-            <td>Bit Manipulation II</td><td align="center">20 problems</td></tr>
+        <tr><td>Easy Problems       </td><td align="center">35 problems</td>
+            <td>Easy Problems       </td><td align="center">35 problems</td></tr>
+        <tr><td>Medium Problems I   </td><td align="center">35 problems</td>
+            <td>Medium Problems I   </td><td align="center">35 problems</td></tr>
+        <tr><td>Medium Problems II  </td><td align="center">35 problems</td>
+            <td>Medium Problems II  </td><td align="center">35 problems</td></tr>
+        <tr><td>Medium Problems III </td><td align="center">35 problems</td>
+            <td>Medium Problems III </td><td align="center">35 problems</td></tr>
+        <tr><td>Hard Problems       </td><td align="center">30 problems</td>
+            <td>Hard Problems       </td><td align="center">30 problems</td></tr>
     </tbody>
 </table>
 
