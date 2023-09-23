@@ -12,7 +12,7 @@
 - ***Advanced Data Structures I***  `20 problems`
 - ***Advanced Data Structures II*** `20 problems`
 
-### LeetCode - Binary Tree I `30 problems`
+### LeetCode - Binary Tree I `35 problems`
 
 <table>
     <tbody>
@@ -95,7 +95,7 @@
     </tbody>
 </table>
 
-### LeetCode - Binary Tree II `30 problems`
+### LeetCode - Binary Tree II `35 problems`
 
 <table>
     <tbody>
