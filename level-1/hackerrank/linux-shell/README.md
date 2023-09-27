@@ -147,32 +147,32 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-3/problem">'Awk' - 3</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-4/problem">'Awk' - 4</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem">'Grep' #1</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem">'Grep' #2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem">'Grep' #1</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem">'Grep' #2</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem">'Grep' #3</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem">'Grep' - A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem">'Grep' #3</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem">'Grep' - A</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem">'Grep' - B</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem">'Sed' command #1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem">'Grep' - B</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem">'Sed' command #1</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem">'Sed' command #2</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem">'Sed' command #3</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem">'Sed' command #2</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem">'Sed' command #3</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/sed-command-4/problem">'Sed' command #4</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/sed-command-5/problem">'Sed' command #5</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/sed-command-4/problem">'Sed' command #4</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/sed-command-5/problem">'Sed' command #5</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-1/problem">'Awk' - 1</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-2/problem">'Awk' - 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-1/problem">'Awk' - 1</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-2/problem">'Awk' - 2</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-3/problem">'Awk' - 3</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://www.hackerrank.com/challenges/awk-4/problem">'Awk' - 4</a></th>
         </tr>
     </tbody>
 </table>
