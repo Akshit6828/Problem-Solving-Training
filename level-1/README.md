@@ -21,7 +21,7 @@ Problem Solving Training for computer science students.
 
 ## `Level 1`
 
-This level simply consists of 14 sheets, 2 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 4 sheets on AtCoder Online Judge.
+This level simply consists of 16 sheets, 4 sheets on HackerRank Online Judge, 4 sheets on Codeforces Online Judge, 4 sheets on HackerEarth Online Judge, 4 sheets on AtCoder Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/main/Programming-Languages-and-Object-Oriented/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
@@ -34,7 +34,9 @@ The prerequisites for level 1 of this training are the basic knowledge for any p
 The HackerRank OJ sheets:
 [[cpp](/level-1/hackerrank/cpp)],
 [[python](/level-1/hackerrank/python)],
-each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~80 problems.
+[[java](/level-1/hackerrank/java)],
+[[linux-shell](/level-1/hackerrank/linux-shell)],
+each sheet of them divided into (Introduction - Conditionals and Loops - Arrays and Strings - Functions Standard Libraries - Classes and Inheritance). In addition to the Linux Shell sheet that contains (Bash - Text Processing - Arrays in Bash - Grep Sed Awk). These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~70 problems.
 
 <table>
     <thead>
@@ -56,6 +58,26 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
             <td>Functions and Libraries II </td><td align="center">20 problems</td></tr>
         <tr><td>Implementation             </td><td align="center">15 problems</td>
             <td>Classes                    </td><td align="center">10 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+<th align="center" width="400px"><a href="/level-1/hackerrank/java">cpp</a></th>
+<th align="center" width="150px">65 problems</th>
+<th align="center" width="400px"><a href="/level-1/hackerrank/linux-shell">python</a></th>
+<th align="center" width="150px">65 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Introduction               </td><td align="center">15 problems</td>
+            <td>Bash                       </td><td align="center">10 problems</td></tr>
+        <tr><td>Strings and BigNumber      </td><td align="center">15 problems</td>
+            <td>Text Processing I          </td><td align="center">15 problems</td></tr>
+        <tr><td>Data Structures            </td><td align="center">15 problems</td>
+            <td>Text Processing II         </td><td align="center">15 problems</td></tr>
+        <tr><td>Object Oriented Programming</td><td align="center">10 problems</td>
+            <td>Arrays in Bash             </td><td align="center">10 problems</td></tr>
+        <tr><td>Advanced                   </td><td align="center">10 problems</td>
+            <td>Grep Sed Awk               </td><td align="center">15 problems</td></tr>
     </tbody>
 </table>
 
