@@ -63,7 +63,7 @@ each sheet of them divided into (Introduction - Conditionals and Loops - Arrays 
         <tr>
 <th align="center" width="400px"><a href="/level-1/hackerrank/java">java</a></th>
 <th align="center" width="150px">65 problems</th>
-<th align="center" width="400px"><a href="/level-1/hackerrank/linux-shell">;inux-shell</a></th>
+<th align="center" width="400px"><a href="/level-1/hackerrank/linux-shell">linux-shell</a></th>
 <th align="center" width="150px">65 problems</th>
         </tr>
     </thead>
