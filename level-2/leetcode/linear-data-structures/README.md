@@ -4,15 +4,16 @@
 
 ### Table of Content
 
-- ***Array I***             `40 problems`
-- ***Array II***            `40 problems`
-- ***Array III***           `40 problems`
+- ***Array I***             `30 problems`
+- ***Array II***            `30 problems`
+- ***Array III***           `30 problems`
+- ***Array IV***            `30 problems`
 - ***Linked List***         `20 problems`
 - ***Stack I***             `25 problems`
 - ***Stack II***            `25 problems`
 - ***Queue and Dequeue***   `20 problems`
 
-### LeetCode - Array I `40 problems`
+### LeetCode - Array I `30 problems`
 
 <table>
     <tbody>
@@ -76,30 +77,10 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-balls-in-a-box/">maximum number of balls in a box</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/height-checker/">height checker</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/">make two arrays equal by reversing sub arrays</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">the k weakest rows in a matrix</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">squares of a sorted array</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/">minimum cost to move chips to the same position</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-array-by-parity-ii/">sort array by parity ii</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/">can make arithmetic progression from sequence</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/">lucky numbers in a matrix</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/">average salary excluding the minimum and maximum salary</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://leetcode.com/problems/relative-sort-array/">relative sort array</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fibonacci-number/">fibonacci number</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Array II `40 problems`
+### LeetCode - Array II `30 problems`
 
 <table>
     <tbody>
@@ -163,30 +144,10 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/">element appearing more than 25 in sorted array</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fair-candy-swap/">fair candy swap</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/counting-elements/">counting elements</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">best time to buy and sell stock ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/slowest-key/">slowest key</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/move-zeroes/">move zeroes</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/faulty-sensor/">faulty sensor</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/">check if array is sorted and rotated</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/monotonic-array/">monotonic array</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">minimum changes to make alternating binary string</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rank-transform-of-an-array/">rank transform of an array</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/">check if a number is majority element in a sorted array</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Array III `40 problems`
+### LeetCode - Array III `30 problems`
 
 <table>
     <tbody>
@@ -250,33 +211,80 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-to-array-form-of-integer/">add to array form of integer</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-number-at-least-twice-of-others/">largest number at least twice of others</a></th>
         </tr>
+    </tbody>
+</table>
+
+### LeetCode - Array IV `30 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/summary-ranges/">summary ranges</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/search-insert-position/">search insert position</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/">make two arrays equal by reversing sub arrays</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">the k weakest rows in a matrix</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">check if it is a straight line</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">detect pattern of length m repeated k or more times</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">squares of a sorted array</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/">minimum cost to move chips to the same position</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/plus-one/">plus one</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-subarray-i/">maximum average subarray i</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-array-by-parity-ii/">sort array by parity ii</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/">can make arithmetic progression from sequence</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-sorted-array/">merge sorted array</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">check if n and its double exist</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/">lucky numbers in a matrix</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/">average salary excluding the minimum and maximum salary</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/">x of a kind in a deck of cards</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-mountain-array/">valid mountain array</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/relative-sort-array/">relative sort array</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fibonacci-number/">fibonacci number</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">41</th><th align="left" width="550px"><a href="https://leetcode.com/problems/can-place-flowers/">can place flowers</a></th>
-<th align="center" width="50px">42</th><th align="left" width="550px"><a href="https://leetcode.com/problems/third-maximum-number/">third maximum number</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/counting-elements/">counting elements</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">best time to buy and sell stock ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">43</th><th align="left" width="550px"><a href="https://leetcode.com/problems/missing-ranges/">missing ranges</a></th>
-<th align="center" width="50px">44</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/slowest-key/">slowest key</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/move-zeroes/">move zeroes</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/faulty-sensor/">faulty sensor</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/">check if array is sorted and rotated</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/monotonic-array/">monotonic array</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">minimum changes to make alternating binary string</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rank-transform-of-an-array/">rank transform of an array</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/">check if a number is majority element in a sorted array</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/summary-ranges/">summary ranges</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/search-insert-position/">search insert position</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">check if it is a straight line</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">detect pattern of length m repeated k or more times</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/plus-one/">plus one</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-subarray-i/">maximum average subarray i</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-sorted-array/">merge sorted array</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">check if n and its double exist</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/">x of a kind in a deck of cards</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-mountain-array/">valid mountain array</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/can-place-flowers/">can place flowers</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/third-maximum-number/">third maximum number</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/missing-ranges/">missing ranges</a></th>
+<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
