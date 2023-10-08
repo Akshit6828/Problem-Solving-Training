@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Basic Algorithms `190 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Basic Algorithms `195 problems` `160 hrs`
 
 ### Table of Content
 
@@ -11,7 +11,7 @@
 - ***Greedy IV***              `20 problems`
 - ***Sorting I***              `20 problems`
 - ***Sorting II***             `20 problems`
-- ***Bit Manipulation***       `20 problems`
+- ***Bit Manipulation***       `25 problems`
 
 ### LeetCode - Binary Search `30 problems`
 
@@ -394,7 +394,7 @@
     </tbody>
 </table>
 
-### LeetCode - Bit Manipulation `20 problems`
+### LeetCode - Bit Manipulation `25 problems`
 
 <table>
     <tbody>
