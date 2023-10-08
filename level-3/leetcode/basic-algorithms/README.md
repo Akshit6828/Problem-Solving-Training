@@ -1,10 +1,10 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Basic Algorithms `195 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Basic Algorithms `190 problems` `160 hrs`
 
 ### Table of Content
 
-- ***Binary Search***          `30 problems`
+- ***Binary Search***          `25 problems`
 - ***Greedy I***               `25 problems`
 - ***Greedy II***              `25 problems`
 - ***Greedy III***             `25 problems`
