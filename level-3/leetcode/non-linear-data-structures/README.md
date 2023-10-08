@@ -4,15 +4,16 @@
 
 ### Table of Content
 
-- ***Binary Tree I***               `35 problems`
-- ***Binary Tree II***              `35 problems`
+- ***Binary Tree I***               `25 problems`
+- ***Binary Tree II***              `25 problems`
+- ***Binary Tree III***             `20 problems`
 - ***Heap Tree***                   `30 problems`
 - ***Hash Table I***                `25 problems`
 - ***Hash Table II***               `25 problems`
 - ***Advanced Data Structures I***  `20 problems`
 - ***Advanced Data Structures II*** `20 problems`
 
-### LeetCode - Binary Tree I `35 problems`
+### LeetCode - Binary Tree I `25 problems`
 
 <table>
     <tbody>
@@ -66,36 +67,12 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-univalue-subtrees/">count univalue subtrees</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">flatten binary tree to linked list</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-duplicate-subtrees/">find duplicate subtrees</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-one-row-to-tree/">add one row to tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">construct binary tree from preorder and inorder traversal</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-string/">construct binary tree from string</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-completeness-of-a-binary-tree/">check completeness of a binary tree</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/house-robber-iii/">house robber iii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/even-odd-tree/">even odd tree</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">sum root to leaf numbers</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-coloring-game/">binary tree coloring game</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">construct binary tree from inorder and postorder traversal</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/">populating next right pointers in each node</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Binary Tree II `35 problems`
+### LeetCode - Binary Tree II `25 problems`
 
 <table>
     <tbody>
@@ -149,19 +126,54 @@
         </tr>
         <tr>
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/">build binary expression tree from infix expression</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">serialize and deserialize binary tree</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
+    </tbody>
+</table>
+
+### LeetCode - Binary Tree III `20 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-duplicate-subtrees/">find duplicate subtrees</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/add-one-row-to-tree/">add one row to tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-distances-in-tree/">sum of distances in tree</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-cameras/">binary tree cameras</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">construct binary tree from preorder and inorder traversal</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-string/">construct binary tree from string</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/">number of ways to reconstruct a tree</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/">vertical order traversal of a binary tree</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-completeness-of-a-binary-tree/">check completeness of a binary tree</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/house-robber-iii/">house robber iii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/tree-of-coprimes/">tree of coprimes</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/redundant-connection-ii/">redundant connection ii</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/even-odd-tree/">even odd tree</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">sum root to leaf numbers</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-coloring-game/">binary tree coloring game</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">construct binary tree from inorder and postorder traversal</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/">populating next right pointers in each node</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">serialize and deserialize binary tree</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-distances-in-tree/">sum of distances in tree</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-cameras/">binary tree cameras</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/">number of ways to reconstruct a tree</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/">vertical order traversal of a binary tree</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/tree-of-coprimes/">tree of coprimes</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/redundant-connection-ii/">redundant connection ii</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">flatten binary tree to linked list</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
