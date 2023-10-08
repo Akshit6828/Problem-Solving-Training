@@ -1,16 +1,17 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures `210 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures `200 problems` `160 hrs`
 
 ### Table of Content
 
-- ***Array I***             `35 problems`
-- ***Array II***            `40 problems`
-- ***Array III***           `40 problems`
-- ***Array IV***            `40 problems`
+- ***Array I***             `30 problems`
+- ***Array II***            `30 problems`
+- ***Array III***           `30 problems`
+- ***Array IV***            `30 problems`
+- ***Array V***             `30 problems`
 - ***Linked List***         `20 problems`
 - ***Stack***               `10 problems`
-- ***Queue and Dequeue***   `25 problems`
+- ***Queue and Dequeue***   `20 problems`
 
 ### LeetCode - Array I `35 problems`
 
@@ -80,22 +81,10 @@
 <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rotating-the-box/">rotating the box</a></th>
 <th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/">compare strings by frequency of the smallest character</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum/">combination sum</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">capacity to ship packages within d days</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lonely-pixel-i/">lonely pixel i</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/">range sum of sorted subarray sums</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/game-of-life/">game of life</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/beautiful-arrangement-ii/">beautiful arrangement ii</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Array II `40 problems`
+### LeetCode - Array II `30 problems`
 
 <table>
     <tbody>
@@ -159,26 +148,10 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/previous-permutation-with-one-swap/">previous permutation with one swap</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">minimum number of days to make m bouquets</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/">minimum domino rotations for equal row</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/">pairs of songs with total durations divisible by 60</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/">maximum side length of a square with sum less than or equal to threshold</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum-ii/">combination sum ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/advantage-shuffle/">advantage shuffle</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-colors/">sort colors</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/leftmost-column-with-at-least-a-one/">leftmost column with at least a one</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-triangle-number/">valid triangle number</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Array III `40 problems`
+### LeetCode - Array III `30 problems`
 
 <table>
     <tbody>
@@ -243,26 +216,10 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pour-water/">pour water</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-peak-element/">find peak element</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/">sum of mutated array closest to target</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-intervals/">merge intervals</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subarray-product-less-than-k/">subarray product less than k</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/">number of sub arrays with odd sum</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">check if array pairs are divisible by k</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">minimum size subarray sum</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/majority-element-ii/">majority element ii</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/search-a-2d-matrix/">search a 2d matrix</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Array IV `40 problems`
+### LeetCode - Array IV `30 problems`
 
 <table>
     <tbody>
@@ -326,25 +283,76 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/transform-to-chessboard/">transform to chessboard</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-consecutive-sequence/">longest consecutive sequence</a></th>
         </tr>
+    </tbody>
+</table>
+
+### LeetCode - Array V `30 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">find minimum in rotated sorted array ii</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/online-majority-element-in-subarray/">online majority element in subarray</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/">minimum domino rotations for equal row</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/">pairs of songs with total durations divisible by 60</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/">best time to buy and sell stock iii</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/">reverse subarray to maximize array value</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/">maximum side length of a square with sum less than or equal to threshold</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum-ii/">combination sum ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/first-missing-positive/">first missing positive</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-subarray-ii/">maximum average subarray ii</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/advantage-shuffle/">advantage shuffle</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-colors/">sort colors</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-subsequence-widths/">sum of subsequence widths</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">median of two sorted arrays</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/leftmost-column-with-at-least-a-one/">leftmost column with at least a one</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-triangle-number/">valid triangle number</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-ladder-ii/">word ladder ii</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/">sum of mutated array closest to target</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-intervals/">merge intervals</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subarray-product-less-than-k/">subarray product less than k</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/">number of sub arrays with odd sum</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">check if array pairs are divisible by k</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">minimum size subarray sum</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/majority-element-ii/">majority element ii</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/search-a-2d-matrix/">search a 2d matrix</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">find minimum in rotated sorted array ii</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/online-majority-element-in-subarray/">online majority element in subarray</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/">best time to buy and sell stock iii</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/">reverse subarray to maximize array value</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/first-missing-positive/">first missing positive</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-subarray-ii/">maximum average subarray ii</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-subsequence-widths/">sum of subsequence widths</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">median of two sorted arrays</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum/">combination sum</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">capacity to ship packages within d days</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lonely-pixel-i/">lonely pixel i</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/">range sum of sorted subarray sums</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/game-of-life/">game of life</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/beautiful-arrangement-ii/">beautiful arrangement ii</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-ladder-ii/">word ladder ii</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
