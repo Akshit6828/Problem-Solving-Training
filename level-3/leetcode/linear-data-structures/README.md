@@ -4,7 +4,7 @@
 
 ### Table of Content
 
-- ***Array I***             `30 problems`
+- ***Array I***             `35 problems`
 - ***Array II***            `30 problems`
 - ***Array III***           `30 problems`
 - ***Array IV***            `30 problems`
