@@ -279,12 +279,14 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     </thead>
     <tbody>
         <tr><td>Array I                     </td><td align="center">35 problems</td>
-            <td>Binary Tree I               </td><td align="center">35 problems</td></tr>
-        <tr><td>Array II                    </td><td align="center">40 problems</td>
-            <td>Binary Tree II              </td><td align="center">35 problems</td></tr>
-        <tr><td>Array III                   </td><td align="center">40 problems</td>
+            <td>Binary Tree I               </td><td align="center">25 problems</td></tr>
+        <tr><td>Array II                    </td><td align="center">30 problems</td>
+            <td>Binary Tree II              </td><td align="center">25 problems</td></tr>
+        <tr><td>Array III                   </td><td align="center">30 problems</td>
+            <td>Binary Tree III             </td><td align="center">20 problems</td></tr>
+        <tr><td>Array IV                    </td><td align="center">30 problems</td>
             <td>Heap Tree                   </td><td align="center">30 problems</td></tr>
-        <tr><td>Array IV                    </td><td align="center">40 problems</td>
+        <tr><td>Array V                     </td><td align="center">30 problems</td>
             <td>Hash Table I                </td><td align="center">25 problems</td></tr>
         <tr><td>Linked List                 </td><td align="center">20 problems</td>
             <td>Hash Table II               </td><td align="center">25 problems</td></tr>
@@ -302,17 +304,19 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         </tr>
     </thead>
     <tbody>
-        <tr><td>Binary Search	        </td><td align="center">30 problems</td>
-            <td>Backtracking I          </td><td align="center">25 problems</td></tr>
-        <tr><td>Greedy I	            </td><td align="center">30 problems</td>
-            <td>Backtracking II         </td><td align="center">25 problems</td></tr>
+        <tr><td>Binary Search	          </td><td align="center">30 problems</td>
+            <td>Backtracking I          </td><td align="center">15 problems</td></tr>
+        <tr><td>Greedy I	               </td><td align="center">30 problems</td>
+            <td>Backtracking II         </td><td align="center">15 problems</td></tr>
         <tr><td>Greedy II               </td><td align="center">30 problems</td>
             <td>Backtracking III        </td><td align="center">20 problems</td></tr>
         <tr><td>Greedy III              </td><td align="center">20 problems</td>
-            <td>Graph  I                </td><td align="center">20 problems</td></tr>
+            <td>Backtracking IV         </td><td align="center">20 problems</td></tr>
         <tr><td>Greedy IV               </td><td align="center">20 problems</td>
+            <td>Graph  I                </td><td align="center">20 problems</td></tr>
+        <tr><td>Sorting	I               </td><td align="center">20 problems</td>
             <td>Graph  II               </td><td align="center">20 problems</td></tr>
-        <tr><td>Sorting	                </td><td align="center">40 problems</td>
+        <tr><td>Sorting	II              </td><td align="center">20 problems</td>
             <td>Graph  III              </td><td align="center">20 problems</td></tr>
         <tr><td>Bit Manipulation        </td><td align="center">20 problems</td>
             <td>Geometry                </td><td align="center">20 problems</td></tr>
@@ -326,18 +330,22 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         </tr>
     </thead>
     <tbody>
-        <tr><td>Math I                  </td><td align="center">40 problems</td>
-            <td>Dynamic Programming I   </td><td align="center">35 problems</td></tr>
-        <tr><td>Math II                 </td><td align="center">40 problems</td>
-            <td>Dynamic Programming II  </td><td align="center">35 problems</td></tr>
-        <tr><td>Math III                </td><td align="center">40 problems</td>
-            <td>Dynamic Programming III </td><td align="center">25 problems</td></tr>
-        <tr><td>String I                </td><td align="center">35 problems</td>
-            <td>Dynamic Programming IV  </td><td align="center">35 problems</td></tr>
-        <tr><td>String II               </td><td align="center">35 problems</td>
-            <td>Dynamic Programming V   </td><td align="center">35 problems</td></tr>
-        <tr><td>String III              </td><td align="center">25 problems</td>
-            <td>Dynamic Programming VI  </td><td align="center">30 problems</td></tr>
+        <tr><td>Math I                       </td><td align="center">30 problems</td>
+            <td>Dynamic Programming I        </td><td align="center">25 problems</td></tr>
+        <tr><td>Math II                      </td><td align="center">30 problems</td>
+            <td>Dynamic Programming II       </td><td align="center">25 problems</td></tr>
+        <tr><td>Math III                     </td><td align="center">30 problems</td>
+            <td>Dynamic Programming III      </td><td align="center">25 problems</td></tr>
+        <tr><td>Math III                     </td><td align="center">30 problems</td>
+            <td>Dynamic Programming IV       </td><td align="center">25 problems</td></tr>
+        <tr><td>String I                     </td><td align="center">25 problems</td>
+            <td>Hard Dynamic Programming I   </td><td align="center">25 problems</td></tr>
+        <tr><td>String II                    </td><td align="center">25 problems</td>
+            <td>Hard Dynamic Programming II  </td><td align="center">25 problems</td></tr>
+        <tr><td>String III                   </td><td align="center">25 problems</td>
+            <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
+        <tr><td>String III                   </td><td align="center">20 problems</td>
+            <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
     </tbody>
 </table>
 
