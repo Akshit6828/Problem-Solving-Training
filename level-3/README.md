@@ -272,13 +272,13 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/leetcode/linear-data-structures">linear-data-structures</a></th>
-<th align="center" width="150px">210 problems</th>
+<th align="center" width="150px">200 problems</th>
 <td align="center" width="400px"><a href="/level-3/leetcode/non-linear-data-structures">non-linear-data-structures</a></td>
 <th align="center" width="150px">190 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Array I                     </td><td align="center">35 problems</td>
+        <tr><td>Array I                     </td><td align="center">30 problems</td>
             <td>Binary Tree I               </td><td align="center">25 problems</td></tr>
         <tr><td>Array II                    </td><td align="center">30 problems</td>
             <td>Binary Tree II              </td><td align="center">25 problems</td></tr>
@@ -292,13 +292,13 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
             <td>Hash Table II               </td><td align="center">25 problems</td></tr>
         <tr><td>Stack                       </td><td align="center">10 problems</td>
             <td>Advanced Data Structures I  </td><td align="center">20 problems</td></tr>
-        <tr><td>Queue and Dequeue           </td><td align="center">25 problems</td>
+        <tr><td>Queue and Dequeue           </td><td align="center">20 problems</td>
             <td>Advanced Data Structures II </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <td align="center" width="400px"><a href="/level-3/leetcode/basic-algorithms">basic-algorithms</a></td>
-<th align="center" width="150px">190 problems</th>
+<th align="center" width="150px">195 problems</th>
 <td align="center" width="400px"><a href="/level-3/leetcode/graph-theory">graph-theory</a></td>
 <th align="center" width="150px">150 problems</th>
         </tr>
@@ -318,7 +318,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
             <td>Graph  II               </td><td align="center">20 problems</td></tr>
         <tr><td>Sorting	II              </td><td align="center">20 problems</td>
             <td>Graph  III              </td><td align="center">20 problems</td></tr>
-        <tr><td>Bit Manipulation        </td><td align="center">20 problems</td>
+        <tr><td>Bit Manipulation        </td><td align="center">25 problems</td>
             <td>Geometry                </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
