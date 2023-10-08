@@ -9,7 +9,8 @@
 - ***Greedy II***              `30 problems`
 - ***Greedy III***             `20 problems`
 - ***Greedy IV***              `20 problems`
-- ***Sorting***                `40 problems`
+- ***Sorting I***              `20 problems`
+- ***Sorting II***             `20 problems`
 - ***Bit Manipulation***       `20 problems`
 
 ### LeetCode - Binary Search `30 problems`
@@ -299,7 +300,7 @@
     </tbody>
 </table>
 
-### LeetCode - Sorting `40 problems`
+### LeetCode - Sorting I `20 problems`
 
 <table>
     <tbody>
@@ -341,43 +342,54 @@
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-intervals/">merge intervals</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/">number of subsequences that satisfy the given sum condition</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"></th>
+        </tr>
+    </tbody>
+</table>
+
+### LeetCode - Sorting II `20 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/h-index/">h index</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insert-interval/">insert interval</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/h-index/">h index</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insert-interval/">insert interval</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-subarray-min-product/">maximum subarray min product</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-number/">largest number</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-subarray-min-product/">maximum subarray min product</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-number/">largest number</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/wiggle-sort-ii/">wiggle sort ii</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sell-diminishing-valued-colored-balls/">sell diminishing valued colored balls</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/wiggle-sort-ii/">wiggle sort ii</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sell-diminishing-valued-colored-balls/">sell diminishing valued colored balls</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/">maximum number of events that can be attended</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/contains-duplicate-iii/">contains duplicate iii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/">maximum number of events that can be attended</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/contains-duplicate-iii/">contains duplicate iii</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-meeting-point/">best meeting point</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-ones/">maximum number of ones</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-meeting-point/">best meeting point</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-ones/">maximum number of ones</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-abbreviation/">word abbreviation</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-height-by-stacking-cuboids/">maximum height by stacking cuboids</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-abbreviation/">word abbreviation</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-height-by-stacking-cuboids/">maximum height by stacking cuboids</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/">maximum profit in job scheduling</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/">checking existence of edge length limited paths</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/">maximum profit in job scheduling</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/">checking existence of edge length limited paths</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-gap/">maximum gap</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-performance-of-a-team/">maximum performance of a team</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-gap/">maximum gap</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-performance-of-a-team/">maximum performance of a team</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/random-pick-with-blacklist/">random pick with blacklist</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/closest-room/">closest room</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/random-pick-with-blacklist/">random pick with blacklist</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/closest-room/">closest room</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/">number of subsequences that satisfy the given sum condition</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"></th>
         </tr>
     </tbody>
 </table>
