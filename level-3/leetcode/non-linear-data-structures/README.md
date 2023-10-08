@@ -8,8 +8,8 @@
 - ***Binary Tree II***              `25 problems`
 - ***Binary Tree III***             `20 problems`
 - ***Heap Tree***                   `30 problems`
-- ***Hash Table I***                `25 problems`
-- ***Hash Table II***               `25 problems`
+- ***Hash Table I***                `20 problems`
+- ***Hash Table II***               `20 problems`
 - ***Advanced Data Structures I***  `20 problems`
 - ***Advanced Data Structures II*** `20 problems`
 
@@ -249,7 +249,7 @@
     </tbody>
 </table>
 
-### LeetCode - Hash Table I `25 problems`
+### LeetCode - Hash Table I `20 problems`
 
 <table>
     <tbody>
@@ -294,13 +294,17 @@
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/analyze-user-website-visit-pattern/">analyze user website visit pattern</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/repeated-dna-sequences/">repeated dna sequences</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/substring-with-concatenation-of-all-words/">substring with concatenation of all words</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/max-points-on-a-line/">max points on a line</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/repeated-dna-sequences/">repeated dna sequences</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Hash Table II `25 problems`
+### LeetCode - Hash Table II `20 problems`
 
 <table>
     <tbody>
@@ -351,10 +355,6 @@
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/random-pick-with-blacklist/">random pick with blacklist</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-duplicate-substring/">longest duplicate substring</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/substring-with-concatenation-of-all-words/">substring with concatenation of all words</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/max-points-on-a-line/">max points on a line</a></th>
         </tr>
     </tbody>
 </table>
