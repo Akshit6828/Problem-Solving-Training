@@ -5,8 +5,9 @@
 ### Table of Content
 
 - ***Recursion***         `30 problems`
-- ***Binary Tree I***     `30 problems`
-- ***Binary Tree II***    `30 problems`
+- ***Binary Tree I***     `20 problems`
+- ***Binary Tree II***    `20 problems`
+- ***Binary Tree III***   `20 problems`
 - ***Heap Tree***         `25 problems`
 - ***Hash Table I***      `25 problems`
 - ***Hash Table II***     `25 problems`
@@ -87,7 +88,7 @@
     </tbody>
 </table>
 
-### LeetCode - Binary Tree I `30 problems`
+### LeetCode - Binary Tree I `20 problems`
 
 <table>
     <tbody>
@@ -132,37 +133,13 @@
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cousins-in-binary-tree/">cousins in binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/closest-binary-search-tree-value/">closest binary search tree value</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/diameter-of-binary-tree/">diameter of binary tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/symmetric-tree/">symmetric tree</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subtree-of-another-tree/">subtree of another tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">find mode in binary search tree</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/path-sum/">path sum</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/">second minimum node in a binary tree</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">minimum depth of binary tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-bst-to-greater-tree/">convert bst to greater tree</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">binary search tree to greater sum tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-bsts/">two sum bsts</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/balance-a-binary-search-tree/">balance a binary search tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/">maximum sum bst in binary tree</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-bsts/">two sum bsts</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/balance-a-binary-search-tree/">balance a binary search tree</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Binary Tree II `30 problems`
+### LeetCode - Binary Tree II `20 problems`
 
 <table>
     <tbody>
@@ -207,32 +184,60 @@
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">distribute coins in binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">maximum difference between node and ancestor</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/">check if two expression trees are equivalent</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-iterator-ii/">binary search tree iterator ii</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-equivalent-binary-trees/">flip equivalent binary trees</a></th>
+        </tr>
+    </tbody>
+</table>
+
+
+### LeetCode - Binary Tree III `20 problems`
+
+<table>
+    <tbody>
+        <tr>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/closest-binary-search-tree-value/">closest binary search tree value</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/diameter-of-binary-tree/">diameter of binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">pseudo palindromic paths in a binary tree</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/change-the-root-of-a-binary-tree/">change the root of a binary tree</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/symmetric-tree/">symmetric tree</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subtree-of-another-tree/">subtree of another tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">maximum level sum of a binary tree</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-distance-in-a-binary-tree/">find distance in a binary tree</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">find mode in binary search tree</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/path-sum/">path sum</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/">lowest common ancestor of deepest leaves</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">construct binary tree from preorder and postorder traversal</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/">second minimum node in a binary tree</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">minimum depth of binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">delete nodes and return forest</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">n ary tree level order traversal</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-bst-to-greater-tree/">convert bst to greater tree</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">binary search tree to greater sum tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-iterator-ii/">binary search tree iterator ii</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-equivalent-binary-trees/">flip equivalent binary trees</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/">maximum sum bst in binary tree</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-binary-tree-ii/">maximum binary tree ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-binary-tree-ii/">maximum binary tree ii</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">maximum difference between node and ancestor</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/">check if two expression trees are equivalent</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">pseudo palindromic paths in a binary tree</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/change-the-root-of-a-binary-tree/">change the root of a binary tree</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">maximum level sum of a binary tree</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-distance-in-a-binary-tree/">find distance in a binary tree</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/">lowest common ancestor of deepest leaves</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">construct binary tree from preorder and postorder traversal</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">delete nodes and return forest</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">n ary tree level order traversal</a></th>
         </tr>
     </tbody>
 </table>

@@ -7,7 +7,8 @@
 - ***Binary Search I***        `35 problems`
 - ***Binary Search II***       `35 problems`
 - ***Divide and Conquer***     `20 problems`
-- ***Sorting***                `40 problems`
+- ***Sorting I***              `20 problems`
+- ***Sorting II***             `20 problems`
 - ***Greedy I***               `20 problems`
 - ***Greedy II***              `20 problems`
 - ***Bit Manipulation***       `20 problems`
@@ -217,7 +218,7 @@
     </tbody>
 </table>
 
-### LeetCode - Sorting `40 problems`
+### LeetCode - Sorting I `20 problems`
 
 <table>
     <tbody>
@@ -261,45 +262,52 @@
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-array-formation-through-concatenation/">check array formation through concatenation</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/">intersection of two arrays ii</a></th>
         </tr>
+    </tbody>
+</table>
+
+### LeetCode - Sorting II `20 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">widest vertical area between two points containing no points</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-the-matrix-diagonally/">sort the matrix diagonally</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">widest vertical area between two points containing no points</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-the-matrix-diagonally/">sort the matrix diagonally</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/">minimize maximum pair sum in array</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/all-elements-in-two-binary-search-trees/">all elements in two binary search trees</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/">minimize maximum pair sum in array</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/all-elements-in-two-binary-search-trees/">all elements in two binary search trees</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/arithmetic-subarrays/">arithmetic subarrays</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/">maximum number of coins you can get</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/arithmetic-subarrays/">arithmetic subarrays</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/">maximum number of coins you can get</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pancake-sorting/">pancake sorting</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-a-leaderboard/">design a leaderboard</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pancake-sorting/">pancake sorting</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-a-leaderboard/">design a leaderboard</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-features-by-popularity/">sort features by popularity</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/wiggle-sort/">wiggle sort</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-features-by-popularity/">sort features by popularity</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/wiggle-sort/">wiggle sort</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-ice-cream-bars/">maximum ice cream bars</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rearrange-words-in-a-sentence/">rearrange words in a sentence</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-ice-cream-bars/">maximum ice cream bars</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rearrange-words-in-a-sentence/">rearrange words in a sentence</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/">range sum of sorted subarray sums</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/">largest submatrix with rearrangements</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/">range sum of sorted subarray sums</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/">largest submatrix with rearrangements</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-k-strongest-values-in-an-array/">the k strongest values in an array</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://leetcode.com/problems/campus-bikes/">campus bikes</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-k-strongest-values-in-an-array/">the k strongest values in an array</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/campus-bikes/">campus bikes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/">filter restaurants by vegan friendly price and distance</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-covered-intervals/">remove covered intervals</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/">filter restaurants by vegan friendly price and distance</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-covered-intervals/">remove covered intervals</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/">least number of unique integers after k removals</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rank-teams-by-votes/">rank teams by votes</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/">least number of unique integers after k removals</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rank-teams-by-votes/">rank teams by votes</a></th>
         </tr>
     </tbody>
 </table>
