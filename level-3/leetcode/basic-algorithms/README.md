@@ -5,10 +5,10 @@
 ### Table of Content
 
 - ***Binary Search***          `30 problems`
-- ***Greedy I***               `30 problems`
-- ***Greedy II***              `30 problems`
-- ***Greedy III***             `20 problems`
-- ***Greedy IV***              `20 problems`
+- ***Greedy I***               `25 problems`
+- ***Greedy II***              `25 problems`
+- ***Greedy III***             `25 problems`
+- ***Greedy IV***              `25 problems`
 - ***Sorting I***              `20 problems`
 - ***Sorting II***             `20 problems`
 - ***Bit Manipulation***       `25 problems`
@@ -76,7 +76,7 @@
     </tbody>
 </table>
 
-### LeetCode - Greedy I `30 problems`
+### LeetCode - Greedy I `25 problems`
 
 <table>
     <tbody>
@@ -132,14 +132,10 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-people-to-teach/">minimum number of people to teach</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/">maximum length of subarray with positive product</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/coordinate-with-maximum-network-quality/">coordinate with maximum network quality</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cinema-seat-allocation/">cinema seat allocation</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Greedy II `30 problems`
+### LeetCode - Greedy II `25 problems`
 
 <table>
     <tbody>
@@ -191,22 +187,10 @@
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-binary-string-after-change/">maximum binary string after change</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/">count number of homogenous substrings</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/wiggle-subsequence/">wiggle subsequence</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/">reconstruct a 2 row binary matrix</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/gas-station/">gas station</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/">maximum score from removing substrings</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-merge-of-two-strings/">largest merge of two strings</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">check if array pairs are divisible by k</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Greedy III `20 problems`
+### LeetCode - Greedy III `25 problems`
 
 <table>
     <tbody>
@@ -250,10 +234,18 @@
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/next-palindrome-using-same-digits/">next palindrome using same digits</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strange-printer-ii/">strange printer ii</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/coordinate-with-maximum-network-quality/">coordinate with maximum network quality</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cinema-seat-allocation/">cinema seat allocation</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/gas-station/">gas station</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/">maximum score from removing substrings</a></th>
+        </tr>
     </tbody>
 </table>
 
-### LeetCode - Greedy IV `20 problems`
+### LeetCode - Greedy IV `25 problems`
 
 <table>
     <tbody>
@@ -294,8 +286,16 @@
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-target-array-with-multiple-sums/">construct target array with multiple sums</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/create-maximum-number/">create maximum number</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-merge-of-two-strings/">largest merge of two strings</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">check if array pairs are divisible by k</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/wiggle-subsequence/">wiggle subsequence</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/">reconstruct a 2 row binary matrix</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/create-maximum-number/">create maximum number</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
