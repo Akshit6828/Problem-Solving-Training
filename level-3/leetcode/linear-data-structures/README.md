@@ -4,7 +4,7 @@
 
 ### Table of Content
 
-- ***Array I***             `35 problems`
+- ***Array I***             `30 problems`
 - ***Array II***            `30 problems`
 - ***Array III***           `30 problems`
 - ***Array IV***            `30 problems`
@@ -13,7 +13,7 @@
 - ***Stack***               `10 problems`
 - ***Queue and Dequeue***   `20 problems`
 
-### LeetCode - Array I `35 problems`
+### LeetCode - Array I `30 problems`
 
 <table>
     <tbody>
