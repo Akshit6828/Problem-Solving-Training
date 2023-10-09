@@ -10,7 +10,7 @@
 - ***Math IV***       `25 problems`
 - ***String I***      `25 problems`
 - ***String II***     `25 problems`
-- ***String III***    `25 problems`
+- ***String III***    `20 problems`
 - ***String IV***     `20 problems`
 
 ### LeetCode - Math I `30 problems`
@@ -333,6 +333,10 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-uncommon-subsequence-i/">longest uncommon subsequence i</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-only-letters/">reverse only letters</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/">maximum product of the length of two palindromic substrings</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-number/">valid number</a></th>
+        </tr>
     </tbody>
 </table>
 
@@ -392,6 +396,10 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">fraction addition and subtraction</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/break-a-palindrome/">break a palindrome</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strong-password-checker/">strong password checker</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-closest-palindrome/">find the closest palindrome</a></th>
+        </tr>
     </tbody>
 </table>
 
@@ -442,14 +450,6 @@
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/text-justification/">text justification</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-palindrome/">shortest palindrome</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/">maximum product of the length of two palindromic substrings</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-number/">valid number</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strong-password-checker/">strong password checker</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-closest-palindrome/">find the closest palindrome</a></th>
         </tr>
     </tbody>
 </table>
