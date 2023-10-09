@@ -155,7 +155,6 @@
 
 <table>
     <tbody>
-
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/magnetic-force-between-two-balls/">magnetic force between two balls</a></th>
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subsets-ii/">subsets ii</a></th>
