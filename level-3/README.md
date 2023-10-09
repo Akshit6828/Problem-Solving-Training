@@ -342,7 +342,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
             <td>Hard Dynamic Programming I   </td><td align="center">25 problems</td></tr>
         <tr><td>String II                    </td><td align="center">25 problems</td>
             <td>Hard Dynamic Programming II  </td><td align="center">25 problems</td></tr>
-        <tr><td>String III                   </td><td align="center">25 problems</td>
+        <tr><td>String III                   </td><td align="center">20 problems</td>
             <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
         <tr><td>String IV                    </td><td align="center">20 problems</td>
             <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
