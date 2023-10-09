@@ -247,7 +247,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         </tr>
     </thead>
     <tbody>
-        <tr><td>Binary Search I          </td><td align="center">35 problems</td>
+        <tr><td>Binary Search I          </td><td align="center">30 problems</td>
             <td>Breadth First Search I   </td><td align="center">20 problems</td></tr>
         <tr><td>Binary Search II         </td><td align="center">35 problems</td>
             <td>Breadth First Search II  </td><td align="center">20 problems</td></tr>
@@ -261,7 +261,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
             <td>Depth First Search II    </td><td align="center">20 problems</td></tr>
         <tr><td>Greedy II                </td><td align="center">20 problems</td>
             <td>Depth First Search III   </td><td align="center">20 problems</td></tr>
-        <tr><td>Bit Manipulation         </td><td align="center">20 problems</td>
+        <tr><td>Bit Manipulation         </td><td align="center">25 problems</td>
             <td>Depth First Search IV    </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
