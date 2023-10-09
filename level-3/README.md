@@ -324,7 +324,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     <thead>
         <tr>
 <td align="center" width="400px"><a href="/level-3/leetcode/mathematics-strings">mathematics-strings</a></td>
-<th align="center" width="150px">210 problems</th>
+<th align="center" width="150px">200 problems</th>
 <td align="center" width="400px"><a href="/level-3/leetcode/dynamic-programming">dynamic-programming</a></td>
 <th align="center" width="150px">200 problems</th>
         </tr>
@@ -334,9 +334,9 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
             <td>Dynamic Programming I        </td><td align="center">25 problems</td></tr>
         <tr><td>Math II                      </td><td align="center">30 problems</td>
             <td>Dynamic Programming II       </td><td align="center">25 problems</td></tr>
-        <tr><td>Math III                     </td><td align="center">30 problems</td>
+        <tr><td>Math III                     </td><td align="center">25 problems</td>
             <td>Dynamic Programming III      </td><td align="center">25 problems</td></tr>
-        <tr><td>Math IV                      </td><td align="center">30 problems</td>
+        <tr><td>Math IV                      </td><td align="center">25 problems</td>
             <td>Dynamic Programming IV       </td><td align="center">25 problems</td></tr>
         <tr><td>String I                     </td><td align="center">25 problems</td>
             <td>Hard Dynamic Programming I   </td><td align="center">25 problems</td></tr>
