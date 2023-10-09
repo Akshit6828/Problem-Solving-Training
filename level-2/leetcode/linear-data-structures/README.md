@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures `210 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Linear Data Structures `200 problems` `160 hrs`
 
 ### Table of Content
 
@@ -9,8 +9,8 @@
 - ***Array III***           `30 problems`
 - ***Array IV***            `30 problems`
 - ***Linked List***         `20 problems`
-- ***Stack I***             `25 problems`
-- ***Stack II***            `25 problems`
+- ***Stack I***             `20 problems`
+- ***Stack II***            `20 problems`
 - ***Queue and Dequeue***   `20 problems`
 
 ### LeetCode - Array I `30 problems`
@@ -340,7 +340,7 @@
     </tbody>
 </table>
 
-### LeetCode - Stack I `25 problems`
+### LeetCode - Stack I `20 problems`
 
 <table>
     <tbody>
@@ -399,7 +399,7 @@
     </tbody>
 </table>
 
-### LeetCode - Stack II `25 problems`
+### LeetCode - Stack II `20 problems`
 
 <table>
     <tbody>
