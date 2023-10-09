@@ -4,14 +4,14 @@
 
 ### Table of Content
 
-- ***Binary Search I***        `35 problems`
+- ***Binary Search I***        `30 problems`
 - ***Binary Search II***       `35 problems`
 - ***Divide and Conquer***     `20 problems`
 - ***Sorting I***              `20 problems`
 - ***Sorting II***             `20 problems`
 - ***Greedy I***               `20 problems`
 - ***Greedy II***              `20 problems`
-- ***Bit Manipulation***       `20 problems`
+- ***Bit Manipulation***       `25 problems`
 
 ### LeetCode - Binary Search I `35 problems`
 
