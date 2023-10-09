@@ -1,13 +1,13 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Mathematics and Strings `210 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Mathematics and Strings `200 problems` `160 hrs`
 
 ### Table of Content
 
 - ***Math I***        `30 problems`
 - ***Math II***       `30 problems`
-- ***Math III***      `30 problems`
-- ***Math IV***       `30 problems`
+- ***Math III***      `25 problems`
+- ***Math IV***       `25 problems`
 - ***String I***      `25 problems`
 - ***String II***     `25 problems`
 - ***String III***    `25 problems`
@@ -76,6 +76,10 @@
         <tr>
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/prime-arrangements/">prime arrangements</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">greatest common divisor of strings</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-palindromes/">super palindromes</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-component-size-by-common-factor/">largest component size by common factor</a></th>
         </tr>
     </tbody>
 </table>
@@ -147,7 +151,7 @@
     </tbody>
 </table>
 
-### LeetCode - Math III `30 problems`
+### LeetCode - Math III `25 problems`
 
 <table>
     <tbody>
@@ -207,14 +211,10 @@
 <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/equal-rational-numbers/">equal rational numbers</a></th>
 <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/consecutive-numbers-sum/">consecutive numbers sum</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-palindromes/">super palindromes</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-component-size-by-common-factor/">largest component size by common factor</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Math IV `30 problems`
+### LeetCode - Math IV `25 problems`
 
 <table>
     <tbody>
