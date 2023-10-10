@@ -13,7 +13,7 @@
 - ***Sorting II***             `20 problems`
 - ***Bit Manipulation***       `25 problems`
 
-### LeetCode - Binary Search `30 problems`
+### LeetCode - Binary Search `25 problems`
 
 <table>
     <tbody>
