@@ -4,8 +4,8 @@
 
 ### Table of Content
 
-- ***Binary Search***          `25 problems`
-- ***Greedy I***               `25 problems`
+- ***Binary Search***          `30 problems`
+- ***Greedy I***               `20 problems`
 - ***Greedy II***              `25 problems`
 - ***Greedy III***             `25 problems`
 - ***Greedy IV***              `25 problems`
@@ -13,7 +13,7 @@
 - ***Sorting II***             `20 problems`
 - ***Bit Manipulation***       `25 problems`
 
-### LeetCode - Binary Search `25 problems`
+### LeetCode - Binary Search `30 problems`
 
 <table>
     <tbody>
@@ -73,10 +73,22 @@
 <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-egg-drop/">super egg drop</a></th>
 <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">shortest subarray with sum at least k</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/koko-eating-bananas/">koko eating bananas</a></th>
+<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-distance-to-target-color/">shortest distance to target color</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/make-sum-divisible-by-p/">make sum divisible by p</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ugly-number-iii/">ugly number iii</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divide-two-integers/">divide two integers</a></th>
+<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
+        </tr>
     </tbody>
 </table>
 
-### LeetCode - Greedy I `25 problems`
+### LeetCode - Greedy I `20 problems`
 
 <table>
     <tbody>
@@ -119,18 +131,6 @@
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/">maximum absolute sum of any subarray</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/">minimum elements to add to form a given sum</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-duplicate-letters/">remove duplicate letters</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/dota2-senate/">dota2 senate</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/string-without-aaa-or-bbb/">string without aaa or bbb</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-people-to-teach/">minimum number of people to teach</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/">maximum length of subarray with positive product</a></th>
         </tr>
     </tbody>
 </table>
