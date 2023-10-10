@@ -274,7 +274,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
 <th align="center" width="400px"><a href="/level-3/leetcode/linear-data-structures">linear-data-structures</a></th>
 <th align="center" width="150px">200 problems</th>
 <td align="center" width="400px"><a href="/level-3/leetcode/non-linear-data-structures">non-linear-data-structures</a></td>
-<th align="center" width="150px">180 problems</th>
+<th align="center" width="150px">190 problems</th>
         </tr>
     </thead>
     <tbody>
@@ -283,11 +283,11 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         <tr><td>Array II                    </td><td align="center">30 problems</td>
             <td>Binary Tree II              </td><td align="center">25 problems</td></tr>
         <tr><td>Array III                   </td><td align="center">30 problems</td>
-            <td>Binary Tree III             </td><td align="center">20 problems</td></tr>
+            <td>Binary Tree III             </td><td align="center">25 problems</td></tr>
         <tr><td>Array IV                    </td><td align="center">30 problems</td>
             <td>Heap Tree                   </td><td align="center">30 problems</td></tr>
         <tr><td>Array V                     </td><td align="center">30 problems</td>
-            <td>Hash Table I                </td><td align="center">20 problems</td></tr>
+            <td>Hash Table I                </td><td align="center">25 problems</td></tr>
         <tr><td>Linked List                 </td><td align="center">20 problems</td>
             <td>Hash Table II               </td><td align="center">20 problems</td></tr>
         <tr><td>Stack                       </td><td align="center">10 problems</td>
