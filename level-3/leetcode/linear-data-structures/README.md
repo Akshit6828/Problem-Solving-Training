@@ -438,7 +438,7 @@
     </tbody>
 </table>
 
-### LeetCode - Queue and Dequeue `25 problems`
+### LeetCode - Queue and Dequeue `20 problems`
 
 <table>
     <tbody>
