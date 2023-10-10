@@ -8,7 +8,7 @@
 - ***Array II***            `30 problems`
 - ***Array III***           `30 problems`
 - ***Array IV***            `30 problems`
-- ***Array V***             `30 problems`
+- ***Array V***             `25 problems`
 - ***Linked List***         `20 problems`
 - ***Stack***               `15 problems`
 - ***Queue and Dequeue***   `20 problems`
@@ -148,6 +148,10 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/previous-permutation-with-one-swap/">previous permutation with one swap</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">minimum number of days to make m bouquets</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum/">combination sum</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">capacity to ship packages within d days</a></th>
+        </tr>
     </tbody>
 </table>
 
@@ -214,6 +218,10 @@
         <tr>
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pour-water/">pour water</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-peak-element/">find peak element</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lonely-pixel-i/">lonely pixel i</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/">range sum of sorted subarray sums</a></th>
         </tr>
     </tbody>
 </table>
@@ -282,10 +290,14 @@
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/transform-to-chessboard/">transform to chessboard</a></th>
 <th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-consecutive-sequence/">longest consecutive sequence</a></th>
         </tr>
+        <tr>
+<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/game-of-life/">game of life</a></th>
+<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/beautiful-arrangement-ii/">beautiful arrangement ii</a></th>
+        </tr>
     </tbody>
 </table>
 
-### LeetCode - Array V `30 problems`
+### LeetCode - Array V `25 problems`
 
 <table>
     <tbody>
@@ -338,20 +350,8 @@
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">median of two sorted arrays</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum/">combination sum</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">capacity to ship packages within d days</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lonely-pixel-i/">lonely pixel i</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/">range sum of sorted subarray sums</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/game-of-life/">game of life</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/beautiful-arrangement-ii/">beautiful arrangement ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-ladder-ii/">word ladder ii</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-ladder-ii/">word ladder ii</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
