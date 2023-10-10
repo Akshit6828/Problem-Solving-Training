@@ -304,9 +304,9 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         </tr>
     </thead>
     <tbody>
-        <tr><td>Binary Search	          </td><td align="center">25 problems</td>
+        <tr><td>Binary Search	          </td><td align="center">30 problems</td>
             <td>Backtracking I          </td><td align="center">15 problems</td></tr>
-        <tr><td>Greedy I	               </td><td align="center">25 problems</td>
+        <tr><td>Greedy I	               </td><td align="center">20 problems</td>
             <td>Backtracking II         </td><td align="center">15 problems</td></tr>
         <tr><td>Greedy II               </td><td align="center">25 problems</td>
             <td>Backtracking III        </td><td align="center">20 problems</td></tr>
