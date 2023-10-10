@@ -392,10 +392,6 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/">minimum remove to make valid parentheses</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/online-stock-span/">online stock span</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-iterator/">binary search tree iterator</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">remove all adjacent duplicates in string ii</a></th>
-        </tr>
     </tbody>
 </table>
 
