@@ -10,7 +10,7 @@
 - ***Array IV***            `30 problems`
 - ***Array V***             `30 problems`
 - ***Linked List***         `20 problems`
-- ***Stack***               `10 problems`
+- ***Stack***               `15 problems`
 - ***Queue and Dequeue***   `20 problems`
 
 ### LeetCode - Array I `30 problems`
@@ -407,7 +407,7 @@
     </tbody>
 </table>
 
-### LeetCode - Stack `10 problems`
+### LeetCode - Stack `15 problems`
 
 <table>
     <tbody>
@@ -434,6 +434,10 @@
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">largest rectangle in histogram</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/tag-validator/">tag validator</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-iterator/">binary search tree iterator</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">remove all adjacent duplicates in string ii</a></th>
         </tr>
     </tbody>
 </table>
