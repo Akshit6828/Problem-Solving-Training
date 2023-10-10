@@ -1,12 +1,12 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Graph Theory `160 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Graph Theory `150 problems` `160 hrs`
 
 ### Table of Content
 
 - ***Breadth First Search I***   `20 problems`
 - ***Breadth First Search II***  `20 problems`
-- ***Depth First Search I***     `25 problems`
+- ***Depth First Search I***     `20 problems`
 - ***Depth First Search II***    `20 problems`
 - ***Graph I***                  `20 problems`
 - ***Graph II***                 `20 problems`
