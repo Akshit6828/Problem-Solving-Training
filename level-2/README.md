@@ -240,7 +240,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     </tbody>
     <thead>
         <tr>
-<td align="center" width="400px"><a href="/level-2/leetcode/basic-algorithms">basic-algorithms-1</a></td>
+<td align="center" width="400px"><a href="/level-2/leetcode/basic-algorithms">basic-algorithms</a></td>
 <th align="center" width="150px">190 problems</th>
 <td align="center" width="400px"><a href="/level-2/leetcode/tree-graph-traversal">tree-and-graph-traversal</a></td>
 <th align="center" width="150px">160 problems</th>
