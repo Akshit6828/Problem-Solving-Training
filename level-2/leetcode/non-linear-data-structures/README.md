@@ -349,10 +349,6 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-balloons/">maximum number of balloons</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-array-formation-through-concatenation/">check array formation through concatenation</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/employee-importance/">employee importance</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-anagram/">valid anagram</a></th>
-        </tr>
     </tbody>
 </table>
 
