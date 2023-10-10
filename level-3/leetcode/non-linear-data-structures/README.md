@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures `180 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures `190 problems` `160 hrs`
 
 ### Table of Content
 
@@ -8,7 +8,7 @@
 - ***Binary Tree II***              `25 problems`
 - ***Binary Tree III***             `25 problems`
 - ***Heap Tree***                   `30 problems`
-- ***Hash Table I***                `20 problems`
+- ***Hash Table I***                `25 problems`
 - ***Hash Table II***               `20 problems`
 - ***Advanced Data Structures I***  `20 problems`
 - ***Advanced Data Structures II*** `20 problems`
@@ -261,7 +261,7 @@
     </tbody>
 </table>
 
-### LeetCode - Hash Table I `20 problems`
+### LeetCode - Hash Table I `25 problems`
 
 <table>
     <tbody>
@@ -310,8 +310,16 @@
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/max-points-on-a-line/">max points on a line</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/repeated-dna-sequences/">repeated dna sequences</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/employee-importance/">employee importance</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-anagram/">valid anagram</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/random-pick-with-blacklist/">random pick with blacklist</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-duplicate-substring/">longest duplicate substring</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/repeated-dna-sequences/">repeated dna sequences</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -363,10 +371,6 @@
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-pairs/">palindrome pairs</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/">insert delete getrandom o1 duplicates allowed</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/random-pick-with-blacklist/">random pick with blacklist</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-duplicate-substring/">longest duplicate substring</a></th>
         </tr>
     </tbody>
 </table>
