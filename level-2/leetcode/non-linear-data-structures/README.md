@@ -132,10 +132,6 @@
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-left-leaves/">sum of left leaves</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cousins-in-binary-tree/">cousins in binary tree</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-bsts/">two sum bsts</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/balance-a-binary-search-tree/">balance a binary search tree</a></th>
-        </tr>
     </tbody>
 </table>
 
@@ -182,10 +178,6 @@
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-pruning/">binary tree pruning</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">distribute coins in binary tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-iterator-ii/">binary search tree iterator ii</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-equivalent-binary-trees/">flip equivalent binary trees</a></th>
         </tr>
     </tbody>
 </table>
@@ -234,10 +226,6 @@
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/">lowest common ancestor of deepest leaves</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">construct binary tree from preorder and postorder traversal</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">delete nodes and return forest</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">n ary tree level order traversal</a></th>
         </tr>
     </tbody>
 </table>
