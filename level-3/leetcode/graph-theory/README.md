@@ -8,9 +8,9 @@
 - ***Breadth First Search II***  `15 problems`
 - ***Depth First Search I***     `20 problems`
 - ***Depth First Search II***    `20 problems`
+- ***Graph***                    `20 problems`
 - ***Backtracking I***           `20 problems`
 - ***Backtracking II***          `20 problems`
-- ***Graph***                    `20 problems`
 - ***Geometry***                 `20 problems`
 
 ### LeetCode - Breadth First Search I `20 problems`
