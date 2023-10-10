@@ -13,7 +13,7 @@
 - ***Greedy II***              `20 problems`
 - ***Bit Manipulation***       `25 problems`
 
-### LeetCode - Binary Search I `35 problems`
+### LeetCode - Binary Search I `30 problems`
 
 <table>
     <tbody>
@@ -406,7 +406,7 @@
     </tbody>
 </table>
 
-### LeetCode - Bit Manipulation `20 problems`
+### LeetCode - Bit Manipulation `25 problems`
 
 <table>
     <tbody>
