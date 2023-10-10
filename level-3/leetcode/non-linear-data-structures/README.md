@@ -6,7 +6,7 @@
 
 - ***Binary Tree I***               `25 problems`
 - ***Binary Tree II***              `25 problems`
-- ***Binary Tree III***             `20 problems`
+- ***Binary Tree III***             `25 problems`
 - ***Heap Tree***                   `30 problems`
 - ***Hash Table I***                `20 problems`
 - ***Hash Table II***               `20 problems`
@@ -131,7 +131,7 @@
     </tbody>
 </table>
 
-### LeetCode - Binary Tree III `20 problems`
+### LeetCode - Binary Tree III `25 problems`
 
 <table>
     <tbody>
@@ -172,8 +172,20 @@
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/redundant-connection-ii/">redundant connection ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">flatten binary tree to linked list</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-bsts/">two sum bsts</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/balance-a-binary-search-tree/">balance a binary search tree</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-iterator-ii/">binary search tree iterator ii</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-equivalent-binary-trees/">flip equivalent binary trees</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">delete nodes and return forest</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">n ary tree level order traversal</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">flatten binary tree to linked list</a></th>
+<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
