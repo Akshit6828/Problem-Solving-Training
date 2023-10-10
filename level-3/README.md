@@ -305,19 +305,19 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     </thead>
     <tbody>
         <tr><td>Binary Search	          </td><td align="center">30 problems</td>
-            <td>Backtracking I          </td><td align="center">15 problems</td></tr>
+            <td>Breadth First Search I  </td><td align="center">20 problems</td></tr>
         <tr><td>Greedy I	               </td><td align="center">20 problems</td>
-            <td>Backtracking II         </td><td align="center">15 problems</td></tr>
+            <td>Breadth First Search II </td><td align="center">15 problems</td></tr>
         <tr><td>Greedy II               </td><td align="center">25 problems</td>
-            <td>Backtracking III        </td><td align="center">20 problems</td></tr>
+            <td>Depth First Search I    </td><td align="center">20 problems</td></tr>
         <tr><td>Greedy III              </td><td align="center">25 problems</td>
-            <td>Backtracking IV         </td><td align="center">20 problems</td></tr>
+            <td>Depth First Search II   </td><td align="center">20 problems</td></tr>
         <tr><td>Greedy IV               </td><td align="center">25 problems</td>
-            <td>Graph  I                </td><td align="center">20 problems</td></tr>
+            <td>Graph                   </td><td align="center">20 problems</td></tr>
         <tr><td>Sorting	I               </td><td align="center">20 problems</td>
-            <td>Graph  II               </td><td align="center">20 problems</td></tr>
+            <td>Breadth First Search I  </td><td align="center">20 problems</td></tr>
         <tr><td>Sorting	II              </td><td align="center">20 problems</td>
-            <td>Graph  III              </td><td align="center">20 problems</td></tr>
+            <td>Breadth First Search II </td><td align="center">15 problems</td></tr>
         <tr><td>Bit Manipulation        </td><td align="center">25 problems</td>
             <td>Geometry                </td><td align="center">20 problems</td></tr>
     </tbody>
