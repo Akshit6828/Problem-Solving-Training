@@ -206,7 +206,7 @@ The LeetCode OJ sheets:
 [[linear-data-structures](/level-2/leetcode/linear-data-structures)],
 [[non-linear-data-structures](/level-2/leetcode/non-linear-data-structures)],
 [[basic-algorithms](/level-2/leetcode/basic-algorithms)],
-[[tree-and-graph-traversal](/level-2/leetcode/tree-graph-traversal)],
+[[tree-and-graph-traversal](/level-2/leetcode/graph-theory)],
 [[interviews-questions-1](/level-2/leetcode/interviews-questions-1)],
 [[interviews-questions-2](/level-2/leetcode/interviews-questions-2)],
 These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~180 problems.
@@ -242,7 +242,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         <tr>
 <td align="center" width="400px"><a href="/level-2/leetcode/basic-algorithms">basic-algorithms</a></td>
 <th align="center" width="150px">190 problems</th>
-<td align="center" width="400px"><a href="/level-2/leetcode/tree-graph-traversal">tree-and-graph-traversal</a></td>
+<td align="center" width="400px"><a href="/level-2/leetcode/graph-theory">graph-theory</a></td>
 <th align="center" width="150px">160 problems</th>
         </tr>
     </thead>
