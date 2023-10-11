@@ -111,7 +111,7 @@
     </tbody>
 </table>
 
-### LeetCode - Depth First Search I `25 problems`
+### LeetCode - Depth First Search I `20 problems`
 
 <table>
     <tbody>
