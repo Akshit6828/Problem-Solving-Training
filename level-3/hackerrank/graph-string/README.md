@@ -10,7 +10,7 @@
 - ***Greedy***           `20 problems`
 - ***Strings I***        `15 problems`
 - ***Strings II***       `15 problems`
-- ***Advanced***         `20 problems`
+- ***Advanced Topics***  `20 problems`
 
 ## HackerRank - Graph Theory I `20 problems`
 
@@ -282,7 +282,7 @@
     </tbody>
 </table>
 
-## HackerRank - Advanced `20 problems` [`Solutions`](/level-3/hackerrank/graph-string/solutions/advanced.md)
+## HackerRank - Advanced Topics `20 problems` [`Solutions`](/level-3/hackerrank/graph-string/solutions/advanced.md)
 
 <table>
     <head>
