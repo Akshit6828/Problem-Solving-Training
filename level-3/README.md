@@ -85,8 +85,8 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
             <td>Hard Dynamic Programming II </td><td align="center">20 problems</td></tr>
         <tr><td>Strings II                  </td><td align="center">15 problems</td>
             <td>Hard Dynamic Programming III</td><td align="center">20 problems</td></tr>
-        <tr><td>Advanced Topics             </td><td align="center">20 problems</td>
-            <td>Advanced Topics             </td><td align="center">15 problems</td></tr>
+        <tr><td>Advanced                    </td><td align="center">20 problems</td>
+            <td>Advanced                    </td><td align="center">15 problems</td></tr>
     </tbody>
 </table>
 
