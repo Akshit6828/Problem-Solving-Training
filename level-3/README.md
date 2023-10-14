@@ -85,8 +85,8 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
             <td>Hard Dynamic Programming II </td><td align="center">20 problems</td></tr>
         <tr><td>Strings II                  </td><td align="center">15 problems</td>
             <td>Hard Dynamic Programming III</td><td align="center">20 problems</td></tr>
-        <tr><td>Advanced                    </td><td align="center">20 problems</td>
-            <td>Advanced                    </td><td align="center">15 problems</td></tr>
+        <tr><td>Advanced Topics             </td><td align="center">20 problems</td>
+            <td>Advanced Topics             </td><td align="center">15 problems</td></tr>
     </tbody>
 </table>
 
@@ -291,9 +291,9 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         <tr><td>Linked List                 </td><td align="center">20 problems</td>
             <td>Hash Table II               </td><td align="center">20 problems</td></tr>
         <tr><td>Stack                       </td><td align="center">15 problems</td>
-            <td>Advanced Data Structures I  </td><td align="center">20 problems</td></tr>
+            <td>Advanced Topics I           </td><td align="center">20 problems</td></tr>
         <tr><td>Queue and Dequeue           </td><td align="center">20 problems</td>
-            <td>Advanced Data Structures II </td><td align="center">20 problems</td></tr>
+            <td>Advanced Topics II          </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
         <tr>
