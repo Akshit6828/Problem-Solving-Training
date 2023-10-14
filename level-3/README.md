@@ -11,9 +11,9 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
   * [HackerRank Online Judge Sheets](#hackerrank-oj-sheets)
+  * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
   * [AtCoder Online Judge Sheets](#atcoder-oj-sheets)
   * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-  * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
   * [HackerEarth Online Judge Sheets](#hackerearth-oj-sheets)
   * [Notes](#notes)
 
@@ -87,6 +87,101 @@ each sheet of them divided into (string, number theory, algebra, graph, greedy, 
             <td>Hard Dynamic Programming III</td><td align="center">20 problems</td></tr>
         <tr><td>Advanced                    </td><td align="center">20 problems</td>
             <td>Advanced                    </td><td align="center">15 problems</td></tr>
+    </tbody>
+</table>
+
+<a href="/level-3/README.md/#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<br>
+
+## `LeetCode OJ sheets`
+
+The LeetCode OJ sheets:
+[[linear-data-structures](/level-2/leetcode/linear-data-structures)],
+[[non-linear-data-structures](/level-2/leetcode/non-linear-data-structures)],
+[[basic-algorithms](/level-2/leetcode/basic-algorithms)],
+[[graph-theory](/level-2/leetcode/graph-theory)],
+[[mathematics-and-strings](/level-2/leetcode/mathematics-strings)],
+[[dynamic-programming](/level-2/leetcode/dynamic-programming)],
+These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~180 problems.
+
+<table>
+    <thead>
+        <tr>
+<th align="center" width="400px"><a href="/level-3/leetcode/linear-data-structures">linear-data-structures</a></th>
+<th align="center" width="150px">200 problems</th>
+<td align="center" width="400px"><a href="/level-3/leetcode/non-linear-data-structures">non-linear-data-structures</a></td>
+<th align="center" width="150px">190 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Array I                     </td><td align="center">30 problems</td>
+            <td>Binary Tree I               </td><td align="center">25 problems</td></tr>
+        <tr><td>Array II                    </td><td align="center">30 problems</td>
+            <td>Binary Tree II              </td><td align="center">25 problems</td></tr>
+        <tr><td>Array III                   </td><td align="center">30 problems</td>
+            <td>Binary Tree III             </td><td align="center">25 problems</td></tr>
+        <tr><td>Array IV                    </td><td align="center">30 problems</td>
+            <td>Heap Tree                   </td><td align="center">30 problems</td></tr>
+        <tr><td>Array V                     </td><td align="center">25 problems</td>
+            <td>Hash Table I                </td><td align="center">25 problems</td></tr>
+        <tr><td>Linked List                 </td><td align="center">20 problems</td>
+            <td>Hash Table II               </td><td align="center">20 problems</td></tr>
+        <tr><td>Stack                       </td><td align="center">15 problems</td>
+            <td>Advanced Topics I           </td><td align="center">20 problems</td></tr>
+        <tr><td>Queue and Dequeue           </td><td align="center">20 problems</td>
+            <td>Advanced Topics II          </td><td align="center">20 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align="center" width="400px"><a href="/level-3/leetcode/basic-algorithms">basic-algorithms</a></td>
+<th align="center" width="150px">190 problems</th>
+<td align="center" width="400px"><a href="/level-3/leetcode/graph-theory">graph-theory</a></td>
+<th align="center" width="150px">150 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Binary Search	          </td><td align="center">30 problems</td>
+            <td>Breadth First Search I  </td><td align="center">20 problems</td></tr>
+        <tr><td>Greedy I	               </td><td align="center">20 problems</td>
+            <td>Breadth First Search II </td><td align="center">15 problems</td></tr>
+        <tr><td>Greedy II               </td><td align="center">25 problems</td>
+            <td>Depth First Search I    </td><td align="center">20 problems</td></tr>
+        <tr><td>Greedy III              </td><td align="center">25 problems</td>
+            <td>Depth First Search II   </td><td align="center">20 problems</td></tr>
+        <tr><td>Greedy IV               </td><td align="center">25 problems</td>
+            <td>Graph                   </td><td align="center">20 problems</td></tr>
+        <tr><td>Sorting	I               </td><td align="center">20 problems</td>
+            <td>Backtracking  I         </td><td align="center">15 problems</td></tr>
+        <tr><td>Sorting	II              </td><td align="center">20 problems</td>
+            <td>Backtracking  II        </td><td align="center">20 problems</td></tr>
+        <tr><td>Bit Manipulation        </td><td align="center">25 problems</td>
+            <td>Geometry                </td><td align="center">20 problems</td></tr>
+    </tbody>
+    <thead>
+        <tr>
+<td align="center" width="400px"><a href="/level-3/leetcode/mathematics-strings">mathematics-strings</a></td>
+<th align="center" width="150px">200 problems</th>
+<td align="center" width="400px"><a href="/level-3/leetcode/dynamic-programming">dynamic-programming</a></td>
+<th align="center" width="150px">200 problems</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Math I                       </td><td align="center">30 problems</td>
+            <td>Dynamic Programming I        </td><td align="center">25 problems</td></tr>
+        <tr><td>Math II                      </td><td align="center">30 problems</td>
+            <td>Dynamic Programming II       </td><td align="center">25 problems</td></tr>
+        <tr><td>Math III                     </td><td align="center">25 problems</td>
+            <td>Dynamic Programming III      </td><td align="center">25 problems</td></tr>
+        <tr><td>Math IV                      </td><td align="center">25 problems</td>
+            <td>Dynamic Programming IV       </td><td align="center">25 problems</td></tr>
+        <tr><td>String I                     </td><td align="center">25 problems</td>
+            <td>Hard Dynamic Programming I   </td><td align="center">25 problems</td></tr>
+        <tr><td>String II                    </td><td align="center">25 problems</td>
+            <td>Hard Dynamic Programming II  </td><td align="center">25 problems</td></tr>
+        <tr><td>String III                   </td><td align="center">20 problems</td>
+            <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
+        <tr><td>String IV                    </td><td align="center">20 problems</td>
+            <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
     </tbody>
 </table>
 
@@ -251,101 +346,6 @@ that focus on gym-contests that contains ~125 contests.
             <td>GYM Contests **** IV </td><td align="center">25 Contests</td></tr>
         <tr><td>GYM Contests **** V  </td><td align="center">25 Contests</td>
             <td>GYM Contests **** V  </td><td align="center">25 Contests</td></tr>
-    </tbody>
-</table>
-
-<a href="/level-3/README.md/#leetcode-oj-sheets"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
-<br>
-
-## `LeetCode OJ sheets`
-
-The LeetCode OJ sheets:
-[[linear-data-structures](/level-2/leetcode/linear-data-structures)],
-[[non-linear-data-structures](/level-2/leetcode/non-linear-data-structures)],
-[[basic-algorithms](/level-2/leetcode/basic-algorithms)],
-[[graph-theory](/level-2/leetcode/graph-theory)],
-[[mathematics-and-strings](/level-2/leetcode/mathematics-strings)],
-[[dynamic-programming](/level-2/leetcode/dynamic-programming)],
-These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~180 problems.
-
-<table>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-3/leetcode/linear-data-structures">linear-data-structures</a></th>
-<th align="center" width="150px">200 problems</th>
-<td align="center" width="400px"><a href="/level-3/leetcode/non-linear-data-structures">non-linear-data-structures</a></td>
-<th align="center" width="150px">190 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Array I                     </td><td align="center">30 problems</td>
-            <td>Binary Tree I               </td><td align="center">25 problems</td></tr>
-        <tr><td>Array II                    </td><td align="center">30 problems</td>
-            <td>Binary Tree II              </td><td align="center">25 problems</td></tr>
-        <tr><td>Array III                   </td><td align="center">30 problems</td>
-            <td>Binary Tree III             </td><td align="center">25 problems</td></tr>
-        <tr><td>Array IV                    </td><td align="center">30 problems</td>
-            <td>Heap Tree                   </td><td align="center">30 problems</td></tr>
-        <tr><td>Array V                     </td><td align="center">25 problems</td>
-            <td>Hash Table I                </td><td align="center">25 problems</td></tr>
-        <tr><td>Linked List                 </td><td align="center">20 problems</td>
-            <td>Hash Table II               </td><td align="center">20 problems</td></tr>
-        <tr><td>Stack                       </td><td align="center">15 problems</td>
-            <td>Advanced Topics I           </td><td align="center">20 problems</td></tr>
-        <tr><td>Queue and Dequeue           </td><td align="center">20 problems</td>
-            <td>Advanced Topics II          </td><td align="center">20 problems</td></tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align="center" width="400px"><a href="/level-3/leetcode/basic-algorithms">basic-algorithms</a></td>
-<th align="center" width="150px">190 problems</th>
-<td align="center" width="400px"><a href="/level-3/leetcode/graph-theory">graph-theory</a></td>
-<th align="center" width="150px">150 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Binary Search	          </td><td align="center">30 problems</td>
-            <td>Breadth First Search I  </td><td align="center">20 problems</td></tr>
-        <tr><td>Greedy I	               </td><td align="center">20 problems</td>
-            <td>Breadth First Search II </td><td align="center">15 problems</td></tr>
-        <tr><td>Greedy II               </td><td align="center">25 problems</td>
-            <td>Depth First Search I    </td><td align="center">20 problems</td></tr>
-        <tr><td>Greedy III              </td><td align="center">25 problems</td>
-            <td>Depth First Search II   </td><td align="center">20 problems</td></tr>
-        <tr><td>Greedy IV               </td><td align="center">25 problems</td>
-            <td>Graph                   </td><td align="center">20 problems</td></tr>
-        <tr><td>Sorting	I               </td><td align="center">20 problems</td>
-            <td>Backtracking  I         </td><td align="center">15 problems</td></tr>
-        <tr><td>Sorting	II              </td><td align="center">20 problems</td>
-            <td>Backtracking  II        </td><td align="center">20 problems</td></tr>
-        <tr><td>Bit Manipulation        </td><td align="center">25 problems</td>
-            <td>Geometry                </td><td align="center">20 problems</td></tr>
-    </tbody>
-    <thead>
-        <tr>
-<td align="center" width="400px"><a href="/level-3/leetcode/mathematics-strings">mathematics-strings</a></td>
-<th align="center" width="150px">200 problems</th>
-<td align="center" width="400px"><a href="/level-3/leetcode/dynamic-programming">dynamic-programming</a></td>
-<th align="center" width="150px">200 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>Math I                       </td><td align="center">30 problems</td>
-            <td>Dynamic Programming I        </td><td align="center">25 problems</td></tr>
-        <tr><td>Math II                      </td><td align="center">30 problems</td>
-            <td>Dynamic Programming II       </td><td align="center">25 problems</td></tr>
-        <tr><td>Math III                     </td><td align="center">25 problems</td>
-            <td>Dynamic Programming III      </td><td align="center">25 problems</td></tr>
-        <tr><td>Math IV                      </td><td align="center">25 problems</td>
-            <td>Dynamic Programming IV       </td><td align="center">25 problems</td></tr>
-        <tr><td>String I                     </td><td align="center">25 problems</td>
-            <td>Hard Dynamic Programming I   </td><td align="center">25 problems</td></tr>
-        <tr><td>String II                    </td><td align="center">25 problems</td>
-            <td>Hard Dynamic Programming II  </td><td align="center">25 problems</td></tr>
-        <tr><td>String III                   </td><td align="center">20 problems</td>
-            <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
-        <tr><td>String IV                    </td><td align="center">20 problems</td>
-            <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
     </tbody>
 </table>
 
