@@ -10,7 +10,7 @@
 - ***Hard Dynamic Programming I***    `20 problems`
 - ***Hard Dynamic Programming II***   `20 problems`
 - ***Hard Dynamic Programming III***  `20 problems`
-- ***Advanced***                      `15 problems`
+- ***Advanced Topics***               `15 problems`
 
 ## HackerRank - Bit Manipulation `15 problems`
 
@@ -298,7 +298,7 @@
     </tbody>
 </table>
 
-## HackerRank - Advanced `15 problems` [`Solutions`](/level-3/hackerrank/dynamic-programming/solutions/advanced.md)
+## HackerRank - Advanced Topics `15 problems` [`Solutions`](/level-3/hackerrank/dynamic-programming/solutions/advanced.md)
 
 <table>
     <head>
