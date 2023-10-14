@@ -10,8 +10,8 @@
 - ***Heap Tree***                   `30 problems`
 - ***Hash Table I***                `25 problems`
 - ***Hash Table II***               `20 problems`
-- ***Advanced Data Structures I***  `20 problems`
-- ***Advanced Data Structures II*** `20 problems`
+- ***Advanced Topics I***           `20 problems`
+- ***Advanced Topics II***          `20 problems`
 
 ### LeetCode - Binary Tree I `25 problems`
 
@@ -375,7 +375,7 @@
     </tbody>
 </table>
 
-### LeetCode - Advanced Data Structures I `20 problems`
+### LeetCode - Advanced Topics I `20 problems`
 
 <table>
     <tbody>
@@ -422,7 +422,7 @@
     </tbody>
 </table>
 
-### LeetCode - Advanced Data Structures II `20 problems`
+### LeetCode - Advanced Topics II `20 problems`
 
 <table>
     <tbody>
