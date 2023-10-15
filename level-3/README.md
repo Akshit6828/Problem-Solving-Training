@@ -140,9 +140,9 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         </tr>
     </thead>
     <tbody>
-        <tr><td>Binary Search	          </td><td align="center">30 problems</td>
+        <tr><td>Binary Search           </td><td align="center">30 problems</td>
             <td>Breadth First Search I  </td><td align="center">20 problems</td></tr>
-        <tr><td>Greedy I	               </td><td align="center">20 problems</td>
+        <tr><td>Greedy I                </td><td align="center">20 problems</td>
             <td>Breadth First Search II </td><td align="center">15 problems</td></tr>
         <tr><td>Greedy II               </td><td align="center">25 problems</td>
             <td>Depth First Search I    </td><td align="center">20 problems</td></tr>
@@ -150,9 +150,9 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
             <td>Depth First Search II   </td><td align="center">20 problems</td></tr>
         <tr><td>Greedy IV               </td><td align="center">25 problems</td>
             <td>Graph                   </td><td align="center">20 problems</td></tr>
-        <tr><td>Sorting	I               </td><td align="center">20 problems</td>
+        <tr><td>Sorting    I            </td><td align="center">20 problems</td>
             <td>Backtracking  I         </td><td align="center">15 problems</td></tr>
-        <tr><td>Sorting	II              </td><td align="center">20 problems</td>
+        <tr><td>Sorting    II           </td><td align="center">20 problems</td>
             <td>Backtracking  II        </td><td align="center">20 problems</td></tr>
         <tr><td>Bit Manipulation        </td><td align="center">25 problems</td>
             <td>Geometry                </td><td align="center">20 problems</td></tr>
