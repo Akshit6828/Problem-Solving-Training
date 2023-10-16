@@ -1,10 +1,6 @@
+<a href="/level-2/leetcode/interviews-questions-2/solutions/binary-search-tree.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 
-
-
-
-
-
-
+# LeetCode OJ - Interviews Questions 2 <br> Binary Tree and Binary Search `25 problems`
 
 ## binary search
 Problem Link: https://leetcode.com/problems/binary-search
