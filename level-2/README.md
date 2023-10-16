@@ -134,22 +134,28 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     <thead>
         <tr>
 <td align="center" width="400px"><a href="/level-2/leetcode/interviews-questions-1">interviews-questions-1</a></td>
-<th align="center" width="150px">170 problems</th>
+<th align="center" width="150px">125 problems</th>
 <td align="center" width="400px"><a href="/level-2/leetcode/interviews-questions-2">interviews-questions-2</a></td>
-<th align="center" width="150px">170 problems</th>
+<th align="center" width="150px">125 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Easy Problems       </td><td align="center">35 problems</td>
-            <td>Easy Problems       </td><td align="center">35 problems</td></tr>
-        <tr><td>Medium Problems I   </td><td align="center">35 problems</td>
-            <td>Medium Problems I   </td><td align="center">35 problems</td></tr>
-        <tr><td>Medium Problems II  </td><td align="center">35 problems</td>
-            <td>Medium Problems II  </td><td align="center">35 problems</td></tr>
-        <tr><td>Medium Problems III </td><td align="center">35 problems</td>
-            <td>Medium Problems III </td><td align="center">35 problems</td></tr>
-        <tr><td>Hard Problems       </td><td align="center">30 problems</td>
-            <td>Hard Problems       </td><td align="center">30 problems</td></tr>
+        <tr><td>Array and String              </td><td align="center">20 problems</td>
+            <td>Array and String              </td><td align="center">20 problems</td></tr>
+        <tr><td>Linked List                   </td><td align="center">15 problems</td>
+            <td>Linked List                   </td><td align="center">15 problems</td></tr>
+        <tr><td>Stack and Queue               </td><td align="center">10 problems</td>
+            <td>Stack and Queue               </td><td align="center">10 problems</td></tr>
+        <tr><td>Binary Tree and Binary Search </td><td align="center">25 problems</td>
+            <td>Binary Tree and Binary Search </td><td align="center">25 problems</td></tr>
+        <tr><td>Graph and Backtracking        </td><td align="center">20 problems</td>
+            <td>Graph and Backtracking        </td><td align="center">20 problems</td></tr>
+        <tr><td>Heap and Bit Manipulation     </td><td align="center">10 problems</td>
+            <td>Heap and Bit Manipulation     </td><td align="center">10 problems</td></tr>
+        <tr><td>Hashmap and Math              </td><td align="center">10 problems</td>
+            <td>Hashmap and Math              </td><td align="center">10 problems</td></tr>
+        <tr><td>Dynamic Programming           </td><td align="center">15 problems</td>
+            <td>Dynamic Programming           </td><td align="center">15 problems</td></tr>
     </tbody>
 </table>
 
