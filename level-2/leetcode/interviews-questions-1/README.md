@@ -1,12 +1,12 @@
 <a href="/level-2/leetcode/interviews-questions-1/README.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 
-## [LeetCode](https://leetcode.com/) OJ - Interviews Questions 1 `130 problems` `80 hrs`
+# [LeetCode](https://leetcode.com/) OJ - Interviews Questions 1 <br> `130 problems` `80 hrs`
 <a href="/level-2/leetcode/interviews-questions-1/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <a href="/level-2/leetcode/interviews-questions-1/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
 ## Solved using
 <br>
 
-### Table of Content
+## Table of Content
 
 - ***Array and String***               `20 problems`
 - ***Linked List***                    `15 problems`
@@ -19,7 +19,7 @@
 
 <br>
 
-### LeetCode - Array and String `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/array-string.md)
+## LeetCode - Array and String `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/array-string.md)
 
 <table>
     <head>
@@ -170,7 +170,7 @@
     </tbody>
 </table>
 
-### LeetCode - Linked List `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/linked-list.md)
+## LeetCode - Linked List `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/linked-list.md)
 
 <table>
     <head>
@@ -275,7 +275,7 @@
     </tbody>
 </table>
 
-### LeetCode - Stack and Queue `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md)
+## LeetCode - Stack and Queue `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md)
 
 <table>
     <head>
@@ -362,7 +362,7 @@
     </tbody>
 </table>
 
-### LeetCode - Binary Tree and Binary Search `25 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md)
+## LeetCode - Binary Tree and Binary Search `25 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/binary-search-tree.md)
 
 <table>
     <head>
@@ -533,7 +533,7 @@
     </tbody>
 </table>
 
-### LeetCode - Graph and Backtracking `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md)
+## LeetCode - Graph and Backtracking `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/graph-backtracking.md)
 
 <table>
     <head>
@@ -668,7 +668,7 @@
     </tbody>
 </table>
 
-### LeetCode - Heap and Bit Manipulation `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md)
+## LeetCode - Heap and Bit Manipulation `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md)
 
 <table>
     <head>
@@ -848,7 +848,7 @@
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md)
+## LeetCode - Dynamic Programming `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md)
 
 <table>
     <head>
