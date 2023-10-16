@@ -3,7 +3,7 @@
 # LeetCode OJ - Interviews Questions 2 <br> Stack and Queue `10 problems`
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -25,7 +25,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -47,7 +47,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -69,7 +69,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -91,7 +91,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -113,7 +113,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -135,7 +135,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -157,7 +157,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -179,7 +179,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
@@ -201,7 +201,7 @@ Problem Link:
 </details>
 
 ## ProblemName
-Problem Link: 
+Problem Link:
 
 <a href="/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
