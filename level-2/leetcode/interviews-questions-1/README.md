@@ -864,91 +864,91 @@
 <th align="center">01</th>
 <th align="left"><a href="https://leetcode.com/problems/climbing-stairs/">climbing stairs</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
 <th align="left"><a href="https://leetcode.com/problems/house-robber/">house robber</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
 <th align="left"><a href="https://leetcode.com/problems/word-break/">word break</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
 <th align="left"><a href="https://leetcode.com/problems/coin-change/">coin change</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
 <th align="left"><a href="https://leetcode.com/problems/longest-increasing-subsequence/">longest increasing subsequence</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
 <th align="left"><a href="https://leetcode.com/problems/longest-palindromic-substring/">longest palindromic substring</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
 <th align="left"><a href="https://leetcode.com/problems/maximum-product-subarray/">maximum product subarray</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
 <th align="left"><a href="https://leetcode.com/problems/unique-paths/">unique paths</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
 <th align="left"><a href="https://leetcode.com/problems/partition-equal-subset-sum/">partition equal subset sum</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
 <th align="left"><a href="https://leetcode.com/problems/range-sum-query-immutable/">range sum query immutable</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
 <th align="left"><a href="https://leetcode.com/problems/counting-bits/">counting bits</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
 <th align="left"><a href="https://leetcode.com/problems/house-robber-ii/">house robber ii</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
 <th align="left"><a href="https://leetcode.com/problems/combination-sum-iv/">combination sum iv</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
 <th align="left"><a href="https://leetcode.com/problems/decode-ways/">decode ways</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
 <th align="left"><a href="https://leetcode.com/problems/palindromic-substrings/">palindromic substrings</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
     </tbody>
 </table>
