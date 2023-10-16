@@ -1,6 +1,6 @@
 <a href="/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 
-# LeetCode OJ - Interviews Questions 1 <br> Hashmap and Math `15 problems`
+# LeetCode OJ - Interviews Questions 1 <br> Hashmap and Math `10 problems`
 
 ## longest consecutive sequence
 Problem Link: https://leetcode.com/problems/longest-consecutive-sequence

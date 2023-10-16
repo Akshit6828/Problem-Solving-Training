@@ -1,12 +1,12 @@
 <a href="/level-2/leetcode/interviews-questions-2/README.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
 
-## [LeetCode](https://leetcode.com/) OJ - Interviews Questions 2 `130 problems` `80 hrs`
+# [LeetCode](https://leetcode.com/) OJ - Interviews Questions 2 <br> `125 problems` `80 hrs`
 <a href="/level-2/leetcode/interviews-questions-2/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <a href="/level-2/leetcode/interviews-questions-2/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
 ## Solved using
 <br>
 
-### Table of Content
+## Table of Content
 
 - ***Array and String***               `20 problems`
 - ***Linked List***                    `15 problems`
@@ -14,12 +14,12 @@
 - ***Binary Tree and Binary Search***  `25 problems`
 - ***Graph and Backtracking***         `20 problems`
 - ***Heap and Bit Manipulation***      `10 problems`
-- ***Hashmap and Math***               `15 problems`
+- ***Hashmap and Math***               `10 problems`
 - ***Dynamic Programming***            `15 problems`
 
 <br>
 
-### LeetCode - Array and String `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/array-string.md)
+## LeetCode - Array and String `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/array-string.md)
 
 <table>
     <head>
@@ -172,7 +172,7 @@
     </tbody>
 </table>
 
-### LeetCode - Linked List `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/linked-list.md)
+## LeetCode - Linked List `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/linked-list.md)
 
 <table>
     <head>
@@ -277,7 +277,7 @@
     </tbody>
 </table>
 
-### LeetCode - Stack and Queue `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md)
+## LeetCode - Stack and Queue `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/stack-queue.md)
 
 <table>
     <head>
@@ -364,7 +364,7 @@
     </tbody>
 </table>
 
-### LeetCode - Binary Tree and Binary Search `25 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/binary-search-tree.md)
+## LeetCode - Binary Tree and Binary Search `25 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/binary-search-tree.md)
 
 <table>
     <head>
@@ -535,7 +535,7 @@
     </tbody>
 </table>
 
-### LeetCode - Graph and Backtracking `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/graph-backtracking.md)
+## LeetCode - Graph and Backtracking `20 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/graph-backtracking.md)
 
 <table>
     <head>
@@ -670,7 +670,7 @@
     </tbody>
 </table>
 
-### LeetCode - Heap and Bit Manipulation `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/heap-bit-manipulation.md)
+## LeetCode - Heap and Bit Manipulation `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/heap-bit-manipulation.md)
 
 <table>
     <head>
@@ -745,7 +745,7 @@
     </tbody>
 </table>
 
-### LeetCode - Hashmap and Math `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/hashmap-math.md)
+## LeetCode - Hashmap and Math `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/hashmap-math.md)
 
 <table>
     <head>
@@ -823,34 +823,10 @@
 <th align="left"></th>
 <th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/hashmap-math.md">Solution</a></th>
         </tr>
-        <tr>
-<th align="center">12</th>
-<th align="left"><a href="https">contains</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/hashmap-math.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">13</th>
-<th align="left"><a href="https">contains</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/hashmap-math.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">14</th>
-<th align="left"><a href="https">contains</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/hashmap-math.md">Solution</a></th>
-        </tr>
-        <tr>
-<th align="center">15</th>
-<th align="left"><a href="https">contains</a></th>
-<th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/hashmap-math.md">Solution</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md)
+## LeetCode - Dynamic Programming `15 problems` [`Solutions`](/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md)
 
 <table>
     <head>
@@ -866,91 +842,91 @@
 <th align="center">01</th>
 <th align="left"><a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence/">number of longest increasing subsequence</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">02</th>
 <th align="left"><a href="https://leetcode.com/problems/partition-to-k-equal-sum-subsets/">partition to k equal sum subsets</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">03</th>
 <th align="left"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/">best time to buy and sell stock with cooldown</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">04</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">05</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">06</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">07</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">08</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">09</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">10</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">11</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">12</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">13</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">14</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
         <tr>
 <th align="center">15</th>
 <th align="left"><a href="https">contains</a></th>
 <th align="left"></th>
-<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic programming.md">Solution</a></th>
+<th align="center"><a href="/level-2/leetcode/interviews-questions-2/solutions/dynamic-programming.md">Solution</a></th>
         </tr>
     </tbody>
 </table>
