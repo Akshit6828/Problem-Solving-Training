@@ -743,7 +743,7 @@
     </tbody>
 </table>
 
-### LeetCode - Hashmap and Math `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md)
+## LeetCode - Hashmap and Math `10 problems` [`Solutions`](/level-2/leetcode/interviews-questions-1/solutions/hashmap-math.md)
 
 <table>
     <head>
