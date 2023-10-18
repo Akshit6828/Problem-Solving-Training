@@ -181,7 +181,7 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
         <tr><td>String III                   </td><td align="center">20 problems</td>
             <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
         <tr><td>String IV                    </td><td align="center">20 problems</td>
-            <td>Hard Dynamic Programming III </td><td align="center">25 problems</td></tr>
+            <td>Hard Dynamic Programming IV </td><td align="center">25 problems</td></tr>
     </tbody>
 </table>
 
