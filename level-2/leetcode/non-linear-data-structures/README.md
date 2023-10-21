@@ -1,19 +1,19 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures `190 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Non-linear Data Structures `155 problems` `120 hrs`
 
 ### Table of Content
 
-- ***Recursion***         `30 problems`
-- ***Binary Tree I***     `20 problems`
-- ***Binary Tree II***    `20 problems`
-- ***Binary Tree III***   `20 problems`
-- ***Heap Tree***         `25 problems`
-- ***Hash Table I***      `25 problems`
-- ***Hash Table II***     `25 problems`
+- ***Recursion***         `25 problems`
+- ***Binary Tree I***     `15 problems`
+- ***Binary Tree II***    `15 problems`
+- ***Binary Tree III***   `15 problems`
+- ***Heap Tree***         `20 problems`
+- ***Hash Table I***      `20 problems`
+- ***Hash Table II***     `20 problems`
 - ***Hash Table III***    `25 problems`
 
-### LeetCode - Recursion `30 problems`
+### LeetCode - Recursion `25 problems`
 
 <table>
     <tbody>
@@ -23,7 +23,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/increasing-order-search-tree/">increasing order search tree</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">maximum depth of binary tree</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strobogrammatic-number-ii/">strobogrammatic number ii</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-th-tribonacci-number/">n th tribonacci number</a></th>
@@ -50,15 +50,15 @@
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-bst/">split bst</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">letter combinations of a phone number</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strobogrammatic-number-ii/">strobogrammatic number ii</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximize-score-after-n-operations/">maximize score after n operations</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/">find minimum time to finish all jobs</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/">construct the lexicographically largest valid sequence</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">numbers with same consecutive differences</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/partition-to-k-equal-sum-subsets/">partition to k equal sum subsets</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-factorization/">minimum factorization</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">longest substring with at least k repeating characters</a></th>
         </tr>
         <tr>
@@ -70,31 +70,19 @@
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-tic-tac-toe-state/">valid tic tac toe state</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-factorization/">minimum factorization</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/validate-binary-search-tree/">validate binary search tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/special-binary-string/">special binary string</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-atoms/">number of atoms</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximize-score-after-n-operations/">maximize score after n operations</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/">find minimum time to finish all jobs</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strobogrammatic-number-iii/">strobogrammatic number iii</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">binary tree maximum path sum</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/special-binary-string/">special binary string</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-atoms/">number of atoms</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Binary Tree I `20 problems`
+### LeetCode - Binary Tree I `15 problems`
 
 <table>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-all-the-lonely-nodes/">find all the lonely nodes</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/merge-two-binary-trees/">merge two binary trees</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-paths/">binary tree paths</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-preorder-traversal/">n ary tree preorder traversal</a></th>
@@ -109,33 +97,25 @@
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/univalued-binary-tree/">univalued binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/invert-binary-tree/">invert binary tree</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/">average of levels in binary tree</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/leaf-similar-trees/">leaf similar trees</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-left-leaves/">sum of left leaves</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/leaf-similar-trees/">leaf similar trees</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">convert sorted array to binary search tree</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">two sum iv input is a bst</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-string-from-binary-tree/">construct string from binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">two sum iv input is a bst</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-string-from-binary-tree/">construct string from binary tree</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cousins-in-binary-tree/">cousins in binary tree</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/clone-n-ary-tree/">clone n ary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">minimum absolute difference in bst</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-paths/">binary tree paths</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/same-tree/">same tree</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">lowest common ancestor of a binary search tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-left-leaves/">sum of left leaves</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cousins-in-binary-tree/">cousins in binary tree</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-leaves-of-binary-tree/">find leaves of binary tree</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">count good nodes in binary tree</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Binary Tree II `20 problems`
+### LeetCode - Binary Tree II `15 problems`
 
 <table>
     <tbody>
@@ -144,8 +124,8 @@
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/">sum of nodes with even valued grandparent</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/clone-n-ary-tree/">clone n ary tree</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-binary-tree/">maximum binary tree</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-pruning/">binary tree pruning</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">distribute coins in binary tree</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/">design an expression tree with evaluate function</a></th>
@@ -171,66 +151,50 @@
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/">path in zigzag labelled binary tree</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/">find nearest right node in binary tree</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-leaves-of-binary-tree/">find leaves of binary tree</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">count good nodes in binary tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-tree-pruning/">binary tree pruning</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">distribute coins in binary tree</a></th>
-        </tr>
     </tbody>
 </table>
 
 
-### LeetCode - Binary Tree III `20 problems`
+### LeetCode - Binary Tree III `15 problems`
 
 <table>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/closest-binary-search-tree-value/">closest binary search tree value</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/diameter-of-binary-tree/">diameter of binary tree</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">find mode in binary search tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/symmetric-tree/">symmetric tree</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/subtree-of-another-tree/">subtree of another tree</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-bst-to-greater-tree/">convert bst to greater tree</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">binary search tree to greater sum tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">find mode in binary search tree</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/path-sum/">path sum</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/">maximum sum bst in binary tree</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-binary-tree-ii/">maximum binary tree ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/">second minimum node in a binary tree</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">minimum depth of binary tree</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">maximum difference between node and ancestor</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/">check if two expression trees are equivalent</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-bst-to-greater-tree/">convert bst to greater tree</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">binary search tree to greater sum tree</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">pseudo palindromic paths in a binary tree</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/change-the-root-of-a-binary-tree/">change the root of a binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/">maximum sum bst in binary tree</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-binary-tree-ii/">maximum binary tree ii</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">maximum level sum of a binary tree</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-distance-in-a-binary-tree/">find distance in a binary tree</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">maximum difference between node and ancestor</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/">check if two expression trees are equivalent</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/">lowest common ancestor of deepest leaves</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">construct binary tree from preorder and postorder traversal</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">pseudo palindromic paths in a binary tree</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/change-the-root-of-a-binary-tree/">change the root of a binary tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">maximum level sum of a binary tree</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-distance-in-a-binary-tree/">find distance in a binary tree</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/">lowest common ancestor of deepest leaves</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">construct binary tree from preorder and postorder traversal</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/">second minimum node in a binary tree</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strobogrammatic-number-iii/">strobogrammatic number iii</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Heap Tree `25 problems`
+### LeetCode - Heap Tree `20 problems`
 
 <table>
     <tbody>
@@ -240,60 +204,44 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/seat-reservation-manager/">seat reservation manager</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-characters-by-frequency/">sort characters by frequency</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-removing-stones/">maximum score from removing stones</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-closest-points-to-origin/">k closest points to origin</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/top-k-frequent-elements/">top k frequent elements</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-pass-ratio/">maximum average pass ratio</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">cheapest flights within k stops</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-removing-stones/">maximum score from removing stones</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">kth largest element in an array</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/">minimum path cost in a hidden grid</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/top-k-frequent-words/">top k frequent words</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/">kth smallest element in a sorted matrix</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-pass-ratio/">maximum average pass ratio</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/">minimum limit of balls in a bag</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/furthest-building-you-can-reach/">furthest building you can reach</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/">minimum path cost in a hidden grid</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/top-k-frequent-words/">top k frequent words</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-ugly-number/">super ugly number</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/network-delay-time/">network delay time</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/">minimum limit of balls in a bag</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reorganize-string/">reorganize string</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-array-into-consecutive-subsequences/">split array into consecutive subsequences</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distant-barcodes/">distant barcodes</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/meeting-rooms-ii/">meeting rooms ii</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/furthest-building-you-can-reach/">furthest building you can reach</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-orders-in-the-backlog/">number of orders in the backlog</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ugly-number-ii/">ugly number ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-ugly-number/">super ugly number</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/network-delay-time/">network delay time</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-eaten-apples/">maximum number of eaten apples</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/single-threaded-cpu/">single threaded cpu</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-array-into-consecutive-subsequences/">split array into consecutive subsequences</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distant-barcodes/">distant barcodes</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-orders-in-the-backlog/">number of orders in the backlog</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ugly-number-ii/">ugly number ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-eaten-apples/">maximum number of eaten apples</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/single-threaded-cpu/">single threaded cpu</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">cheapest flights within k stops</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-k-pairs-with-smallest-sums/">find k pairs with smallest sums</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-twitter/">design twitter</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-twitter/">design twitter</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-k-th-smallest-pair-distance/">find k th smallest pair distance</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Hash Table I `25 problems`
+### LeetCode - Hash Table I `20 problems`
 
 <table>
     <tbody>
@@ -327,7 +275,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/island-perimeter/">island perimeter</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/single-number/">single number</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-array-formation-through-concatenation/">check array formation through concatenation</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/keyboard-row/">keyboard row</a></th>
@@ -341,18 +289,10 @@
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-hashset/">design hashset</a></th>
 <th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/uncommon-words-from-two-sentences/">uncommon words from two sentences</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-hashmap/">design hashmap</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-permutation/">palindrome permutation</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-balloons/">maximum number of balloons</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/check-array-formation-through-concatenation/">check array formation through concatenation</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Hash Table II `25 problems`
+### LeetCode - Hash Table II `20 problems`
 
 <table>
     <tbody>
@@ -369,24 +309,24 @@
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-index-sum-of-two-lists/">minimum index sum of two lists</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/happy-number/">happy number</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/set-mismatch/">set mismatch</a></th>
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-harmonious-subsequence/">longest harmonious subsequence</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-word-in-dictionary/">longest word in dictionary</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum/">two sum</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/finding-the-users-active-minutes/">finding the users active minutes</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distinct-numbers-in-each-subarray/">distinct numbers in each subarray</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strobogrammatic-number/">strobogrammatic number</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sentence-similarity/">sentence similarity</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/set-mismatch/">set mismatch</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/isomorphic-strings/">isomorphic strings</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-substrings-that-differ-by-one-character/">count substrings that differ by one character</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/">display table of food orders in a restaurant</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/contains-duplicate-ii/">contains duplicate ii</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-pattern/">word pattern</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">finding pairs with a certain sum</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-smallest-common-element-in-all-rows/">find smallest common element in all rows</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-sum-iii-data-structure-design/">two sum iii data structure design</a></th>
@@ -395,18 +335,6 @@
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors/">dot product of two sparse vectors</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/encode-and-decode-tinyurl/">encode and decode tinyurl</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/finding-the-users-active-minutes/">finding the users active minutes</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distinct-numbers-in-each-subarray/">distinct numbers in each subarray</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">finding pairs with a certain sum</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-smallest-common-element-in-all-rows/">find smallest common element in all rows</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-substrings-that-differ-by-one-character/">count substrings that differ by one character</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/">display table of food orders in a restaurant</a></th>
         </tr>
     </tbody>
 </table>
@@ -421,7 +349,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/">flip columns for maximum number of equal rows</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/group-anagrams/">group anagrams</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-boomerangs/">number of boomerangs</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-values-from-labels/">largest values from labels</a></th>
@@ -452,20 +380,16 @@
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">max number of k sum pairs</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-boomerangs/">number of boomerangs</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/contains-duplicate/">contains duplicate</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-difference/">find the difference</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-completing-word/">shortest completing word</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-difference/">find the difference</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-completing-word/">shortest completing word</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-word-with-all-prefixes/">longest word with all prefixes</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-a-leaderboard/">design a leaderboard</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-word-with-all-prefixes/">longest word with all prefixes</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-a-leaderboard/">design a leaderboard</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/">evaluate the bracket pairs of a string</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-features-by-popularity/">sort features by popularity</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/">evaluate the bracket pairs of a string</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sort-features-by-popularity/">sort features by popularity</a></th>
         </tr>
     </tbody>
 </table>
