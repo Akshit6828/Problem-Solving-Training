@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Graph Theory `125 problems` `80 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Graph Theory `125 problems` `120 hrs`
 
 ### Table of Content
 
