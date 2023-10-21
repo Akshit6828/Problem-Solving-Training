@@ -76,7 +76,7 @@ The LeetCode OJ sheets:
 [[graph-theory](/level-2/leetcode/graph-theory)],
 [[interviews-questions-1](/level-2/leetcode/interviews-questions-1)],
 [[interviews-questions-2](/level-2/leetcode/interviews-questions-2)],
-These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~180 problems.
+These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tree - HashTable) plus (Binary Search - Sorting - Divide and Conquer - Greedy - Bit Manipulation). In addition to (String, Graph, BFS, DFS, Mathematics, Backtracking, and Dynamic Programming) problems. These sheets were ordered based on the problem difficulty and grouped by the problem topic. Finally, each sheet contains ~140 problems.
 
 <table>
     <thead>
