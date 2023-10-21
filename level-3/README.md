@@ -134,27 +134,27 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
     <thead>
         <tr>
 <td align="center" width="400px"><a href="/level-3/leetcode/basic-algorithms">basic-algorithms</a></td>
-<th align="center" width="150px">190 problems</th>
+<th align="center" width="150px">155 problems</th>
 <td align="center" width="400px"><a href="/level-3/leetcode/graph-theory">graph-theory</a></td>
-<th align="center" width="150px">150 problems</th>
+<th align="center" width="150px">125 problems</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>Binary Search           </td><td align="center">30 problems</td>
-            <td>Breadth First Search I  </td><td align="center">20 problems</td></tr>
+        <tr><td>Binary Search           </td><td align="center">25 problems</td>
+            <td>Breadth First Search I  </td><td align="center">15 problems</td></tr>
         <tr><td>Greedy I                </td><td align="center">20 problems</td>
             <td>Breadth First Search II </td><td align="center">15 problems</td></tr>
-        <tr><td>Greedy II               </td><td align="center">25 problems</td>
-            <td>Depth First Search I    </td><td align="center">20 problems</td></tr>
-        <tr><td>Greedy III              </td><td align="center">25 problems</td>
-            <td>Depth First Search II   </td><td align="center">20 problems</td></tr>
-        <tr><td>Greedy IV               </td><td align="center">25 problems</td>
-            <td>Graph                   </td><td align="center">20 problems</td></tr>
-        <tr><td>Sorting    I            </td><td align="center">20 problems</td>
+        <tr><td>Greedy II               </td><td align="center">20 problems</td>
+            <td>Depth First Search I    </td><td align="center">15 problems</td></tr>
+        <tr><td>Greedy III              </td><td align="center">20 problems</td>
+            <td>Depth First Search II   </td><td align="center">15 problems</td></tr>
+        <tr><td>Greedy IV               </td><td align="center">20 problems</td>
+            <td>Graph                   </td><td align="center">15 problems</td></tr>
+        <tr><td>Sorting    I            </td><td align="center">15 problems</td>
             <td>Backtracking  I         </td><td align="center">15 problems</td></tr>
-        <tr><td>Sorting    II           </td><td align="center">20 problems</td>
-            <td>Backtracking  II        </td><td align="center">20 problems</td></tr>
-        <tr><td>Bit Manipulation        </td><td align="center">25 problems</td>
+        <tr><td>Sorting    II           </td><td align="center">15 problems</td>
+            <td>Backtracking  II        </td><td align="center">15 problems</td></tr>
+        <tr><td>Bit Manipulation        </td><td align="center">20 problems</td>
             <td>Geometry                </td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
