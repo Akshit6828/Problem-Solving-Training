@@ -672,7 +672,7 @@ public:
 </details>
 
 ## sliding window median
-Problem Link: https://leetcode.com/problems/sliding-window-median/submissions
+Problem Link: https://leetcode.com/problems/sliding-window-median
 
 <a href="/level-2/leetcode/interviews-questions-1/solutions/stack-queue.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
 <details>
