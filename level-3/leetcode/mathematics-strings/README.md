@@ -1,19 +1,19 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Mathematics and Strings `200 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Mathematics and Strings `180 problems` `160 hrs`
 
 ### Table of Content
 
-- ***Math I***        `30 problems`
-- ***Math II***       `30 problems`
+- ***Math I***        `25 problems`
+- ***Math II***       `25 problems`
 - ***Math III***      `25 problems`
 - ***Math IV***       `25 problems`
-- ***String I***      `25 problems`
-- ***String II***     `25 problems`
+- ***String I***      `20 problems`
+- ***String II***     `20 problems`
 - ***String III***    `20 problems`
 - ***String IV***     `20 problems`
 
-### LeetCode - Math I `30 problems`
+### LeetCode - Math I `25 problems`
 
 <table>
     <tbody>
@@ -54,8 +54,8 @@
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/excel-sheet-column-number/">excel sheet column number</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/roman-to-integer/">roman to integer</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-odd-number-in-string/">largest odd number in string</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-palindromes/">super palindromes</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-component-size-by-common-factor/">largest component size by common factor</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/">convert integer to the sum of two no zero integers</a></th>
@@ -69,22 +69,10 @@
 <th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/nim-game/">nim game</a></th>
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-addition-ii/">range addition ii</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">count odd numbers in an interval range</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements/">minimum moves to equal array elements</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/prime-arrangements/">prime arrangements</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">greatest common divisor of strings</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-palindromes/">super palindromes</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-component-size-by-common-factor/">largest component size by common factor</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - Math II `30 problems`
+### LeetCode - Math II `25 problems`
 
 <table>
     <tbody>
@@ -117,7 +105,7 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/closest-divisors/">closest divisors</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/integer-to-roman/">integer to roman</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-odd-number-in-string/">largest odd number in string</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/optimal-division/">optimal division</a></th>
         </tr>
         <tr>
@@ -143,10 +131,6 @@
         <tr>
 <th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-pow/">super pow</a></th>
 <th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reconstruct-original-digits-from-english/">reconstruct original digits from english</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">fraction addition and subtraction</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-of-absolute-value-expression/">maximum of absolute value expression</a></th>
         </tr>
     </tbody>
 </table>
@@ -220,7 +204,7 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/construct-the-rectangle/">construct the rectangle</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-number/">palindrome number</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/power-of-three/">power of three</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/missing-number-in-arithmetic-progression/">missing number in arithmetic progression</a></th>
@@ -235,8 +219,8 @@
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-days-between-two-dates/">number of days between two dates</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/power-of-three/">power of three</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">factorial trailing zeroes</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-floored-pairs/">sum of floored pairs</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-closest-palindrome/">find the closest palindrome</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/">the number of full rounds you have played</a></th>
@@ -271,13 +255,13 @@
 <th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximize-number-of-nice-divisors/">maximize number of nice divisors</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sum-of-floored-pairs/">sum of floored pairs</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-closest-palindrome/">find the closest palindrome</a></th>
+<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">fraction addition and subtraction</a></th>
+<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-of-absolute-value-expression/">maximum of absolute value expression</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - String I `25 problems`
+### LeetCode - String I `20 problems`
 
 <table>
     <tbody>
@@ -329,18 +313,10 @@
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/consecutive-characters/">consecutive characters</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reformat-date/">reformat date</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-uncommon-subsequence-i/">longest uncommon subsequence i</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-only-letters/">reverse only letters</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/">maximum product of the length of two palindromic substrings</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-number/">valid number</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - String II `25 problems`
+### LeetCode - String II `20 problems`
 
 <table>
     <tbody>
@@ -353,7 +329,7 @@
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/license-key-formatting/">license key formatting</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-palindrome/">valid palindrome</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-palindrome-ii/">valid palindrome ii</a></th>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-repeating-substring/">maximum repeating substring</a></th>
         </tr>
         <tr>
@@ -361,15 +337,15 @@
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-segments-in-a-string/">number of segments in a string</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-common-prefix/">longest common prefix</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-palindrome-ii/">valid palindrome ii</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/">maximum product of the length of two palindromic substrings</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-number/">valid number</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/long-pressed-name/">long pressed name</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/implement-strstr/">implement strstr</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/length-of-last-word/">length of last word</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strong-password-checker/">strong password checker</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-word-abbreviation/">valid word abbreviation</a></th>
         </tr>
         <tr>
@@ -392,24 +368,16 @@
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/robot-bounded-in-circle/">robot bounded in circle</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/delete-operation-for-two-strings/">delete operation for two strings</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">fraction addition and subtraction</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/break-a-palindrome/">break a palindrome</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://leetcode.com/problems/strong-password-checker/">strong password checker</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-closest-palindrome/">find the closest palindrome</a></th>
-        </tr>
     </tbody>
 </table>
 
-### LeetCode - String III `25 problems`
+### LeetCode - String III `20 problems`
 
 <table>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/">minimum length of string after deleting similar ends</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/zigzag-conversion/">zigzag conversion</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/validate-ip-address/">validate ip address</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-comments/">remove comments</a></th>
@@ -424,8 +392,8 @@
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/compare-version-numbers/">compare version numbers</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-words-in-a-string/">reverse words in a string</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/validate-ip-address/">validate ip address</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-palindrome/">shortest palindrome</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-unique-good-subsequences/">number of unique good subsequences</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/string-to-integer-atoi/">string to integer atoi</a></th>
@@ -436,20 +404,24 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/orderly-queue/">orderly queue</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-unique-good-subsequences/">number of unique good subsequences</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/">count unique characters of all substrings of a given string</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/">minimum number of operations to make string sorted</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-happy-prefix/">longest happy prefix</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/">minimum number of operations to make string sorted</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-happy-prefix/">longest happy prefix</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/">read n characters given read4 ii call multiple times</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/last-substring-in-lexicographical-order/">last substring in lexicographical order</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/">read n characters given read4 ii call multiple times</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/last-substring-in-lexicographical-order/">last substring in lexicographical order</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/fraction-addition-and-subtraction/">fraction addition and subtraction</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/break-a-palindrome/">break a palindrome</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/text-justification/">text justification</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-palindrome/">shortest palindrome</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">count odd numbers in an interval range</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements/">minimum moves to equal array elements</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-the-closest-palindrome/">find the closest palindrome</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"></th>
         </tr>
     </tbody>
 </table>
@@ -497,6 +469,14 @@
         <tr>
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/masking-personal-information/">masking personal information</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">number of substrings with only 1s</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-uncommon-subsequence-i/">longest uncommon subsequence i</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/reverse-only-letters/">reverse only letters</a></th>
+        </tr>
+        <tr>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/prime-arrangements/">prime arrangements</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">greatest common divisor of strings</a></th>
         </tr>
     </tbody>
 </table>

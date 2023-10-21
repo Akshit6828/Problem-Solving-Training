@@ -1,33 +1,33 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Dynamic Programming `200 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Dynamic Programming `180 problems` `160 hrs`
 
 ### Table of Content
 
-- ***Dynamic Programming I***        `25 problems`
-- ***Dynamic Programming II***       `25 problems`
-- ***Dynamic Programming III***      `25 problems`
-- ***Dynamic Programming IV***       `25 problems`
+- ***Dynamic Programming I***        `20 problems`
+- ***Dynamic Programming II***       `20 problems`
+- ***Dynamic Programming III***      `20 problems`
+- ***Dynamic Programming IV***       `20 problems`
 - ***Hard Dynamic Programming I***   `25 problems`
 - ***Hard Dynamic Programming II***  `25 problems`
 - ***Hard Dynamic Programming III*** `25 problems`
 - ***Hard Dynamic Programming IV***  `25 problems`
 
-### LeetCode - Dynamic Programming I `25 problems`
+### LeetCode - Dynamic Programming I `20 problems`
 
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/counting-bits/">counting bits</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divisor-game/">divisor game</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divisor-game/">divisor game</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">min cost climbing stairs</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">best time to buy and sell stock</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">min cost climbing stairs</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/filling-bookcase-shelves/">filling bookcase shelves</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-for-tickets/">minimum cost for tickets</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/range-sum-query-immutable/">range sum query immutable</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/climbing-stairs/">climbing stairs</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/arithmetic-slices/">arithmetic slices</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/">minimum ascii delete sum for two strings</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/matrix-block-sum/">matrix block sum</a></th>
@@ -46,29 +46,21 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-falling-path-sum/">minimum falling path sum</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindromic-substrings/">palindromic substrings</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-for-tickets/">minimum cost for tickets</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/">maximum subarray sum after one operation</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-submatrices-with-all-ones/">count submatrices with all ones</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/">airplane seat assignment probability</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/where-will-the-ball-fall/">where will the ball fall</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/">maximum subarray sum after one operation</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-submatrices-with-all-ones/">count submatrices with all ones</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/arithmetic-slices/">arithmetic slices</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/">minimum ascii delete sum for two strings</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-common-subsequence/">longest common subsequence</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/filling-bookcase-shelves/">filling bookcase shelves</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/">longest line of consecutive one in matrix</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-turbulent-subarray/">longest turbulent subarray</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming II `25 problems`
+### LeetCode - Dynamic Programming II `20 problems`
 
 <table>
     <tbody>
@@ -93,7 +85,7 @@
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/video-stitching/">video stitching</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/">best time to buy and sell stock with cooldown</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-substrings-in-wraparound-string/">unique substrings in wraparound string</a></th>
 <th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-1-bordered-square/">largest 1 bordered square</a></th>
         </tr>
         <tr>
@@ -105,25 +97,17 @@
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/bomb-enemy/">bomb enemy</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/triangle/">triangle</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/combination-sum-iv/">combination sum iv</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">longest arithmetic subsequence of given difference</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/knight-dialer/">knight dialer</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">longest arithmetic subsequence of given difference</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/knight-dialer/">knight dialer</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-plus-sign/">largest plus sign</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/last-stone-weight-ii/">last stone weight ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/">longest line of consecutive one in matrix</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-turbulent-subarray/">longest turbulent subarray</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-plus-sign/">largest plus sign</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/last-stone-weight-ii/">last stone weight ii</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming III `25 problems`
+### LeetCode - Dynamic Programming III `20 problems`
 
 <table>
     <tbody>
@@ -133,56 +117,40 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/domino-and-tromino-tiling/">domino and tromino tiling</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximal-square/">maximal square</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-team-with-no-conflicts/">best team with no conflicts</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://leetcode.com/problems/paint-fence/">paint fence</a></th>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/">maximum subarray sum with one deletion</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-team-with-no-conflicts/">best team with no conflicts</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence/">number of longest increasing subsequence</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-concatenation-maximum-sum/">k concatenation maximum sum</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cat-and-mouse-ii/">cat and mouse ii</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/">minimum swaps to make sequences increasing</a></th>
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-divisible-subset/">largest divisible subset</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/coin-change/">coin change</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/house-robber-ii/">house robber ii</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/new-21-game/">new 21 game</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/">find two non overlapping sub arrays each with target sum</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-substrings-in-wraparound-string/">unique substrings in wraparound string</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-paths-ii/">unique paths ii</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/bitwise-ors-of-subarrays/">bitwise ors of subarrays</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sentence-screen-fitting/">sentence screen fitting</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/new-21-game/">new 21 game</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/">find two non overlapping sub arrays each with target sum</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/">maximum score from performing multiplication operations</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/continuous-subarray-sum/">continuous subarray sum</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/bitwise-ors-of-subarrays/">bitwise ors of subarrays</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/sentence-screen-fitting/">sentence screen fitting</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/interleaving-string/">interleaving string</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-subarray/">maximum product subarray</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-palindromic-substring/">longest palindromic substring</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/">maximum score from performing multiplication operations</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-ways/">decode ways</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/continuous-subarray-sum/">continuous subarray sum</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-concatenation-maximum-sum/">k concatenation maximum sum</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-refueling-stops/">minimum number of refueling stops</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/kth-ancestor-of-a-tree-node/">kth ancestor of a tree node</a></th>
         </tr>
     </tbody>
 </table>
 
-### LeetCode - Dynamic Programming IV `25 problems`
+### LeetCode - Dynamic Programming IV `20 problems`
 
 <table>
     <tbody>
@@ -215,24 +183,12 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-binary-search-trees-ii/">unique binary search trees ii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/house-robber/">house robber</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/">number of sets of k non overlapping line segments</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ones-and-zeroes/">ones and zeroes</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/ugly-number-ii/">ugly number ii</a></th>
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii/">guess number higher or lower ii</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-break/">word break</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/">number of sets of k non overlapping line segments</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-path-sum/">minimum path sum</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/unique-paths/">unique paths</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/partition-equal-subset-sum/">partition equal subset sum</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/partition-to-k-equal-sum-subsets/">partition to k equal sum subsets</a></th>
         </tr>
     </tbody>
 </table>
@@ -289,10 +245,6 @@
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-vowels-permutation/">count vowels permutation</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/allocate-mailboxes/">allocate mailboxes</a></th>
         </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-common-supersequence/">shortest common supersequence</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/">number of ways to rearrange sticks with k sticks visible</a></th>
-        </tr>
     </tbody>
 </table>
 
@@ -302,7 +254,7 @@
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/race-car/">race car</a></th>
-<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/">best time to buy and sell stock iii</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/">minimum number of days to eat n oranges</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distinct-subsequences/">distinct subsequences</a></th>
@@ -321,36 +273,32 @@
 <th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/">maximum number of groups getting fresh donuts</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/">minimum number of days to eat n oranges</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-valid-parentheses/">longest valid parentheses</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-to-cut-a-stick/">minimum cost to cut a stick</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-ways-ii/">decode ways ii</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://leetcode.com/problems/coin-path/">coin path</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-the-repetitions/">count the repetitions</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-to-cut-a-stick/">minimum cost to cut a stick</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/trapping-rain-water/">trapping rain water</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-palindrome-iii/">valid palindrome iii</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/">number of ways to reorder array to get same bst</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/valid-palindrome-iii/">valid palindrome iii</a></th>
-<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/">number of ways to reorder array to get same bst</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://leetcode.com/problems/stone-game-viii/">stone game viii</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://leetcode.com/problems/encode-string-with-shortest-length/">encode string with shortest length</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/stone-game-viii/">stone game viii</a></th>
-<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/encode-string-with-shortest-length/">encode string with shortest length</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-partitioning-iv/">palindrome partitioning iv</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/paint-house-iii/">paint house iii</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-partitioning-iv/">palindrome partitioning iv</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/paint-house-iii/">paint house iii</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-music-playlists/">number of music playlists</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/">maximum number of achievable transfer requests</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-music-playlists/">number of music playlists</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/">maximum number of achievable transfer requests</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/decode-ways-ii/">decode ways ii</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href=""></a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/">minimum xor sum of two arrays</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-inverse-pairs-array/">k inverse pairs array</a></th>
         </tr>
     </tbody>
 </table>
@@ -360,7 +308,7 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/edit-distance/">edit distance</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-to-merge-stones/">minimum cost to merge stones</a></th>
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/">maximum sum of 3 non overlapping subarrays</a></th>
         </tr>
         <tr>
@@ -406,10 +354,6 @@
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/distinct-subsequences-ii/">distinct subsequences ii</a></th>
 <th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/odd-even-jump/">odd even jump</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/cat-and-mouse-ii/">cat and mouse ii</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-cost-to-merge-stones/">minimum cost to merge stones</a></th>
         </tr>
     </tbody>
 </table>
@@ -459,16 +403,12 @@
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/">minimum skips to arrive at meeting on time</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-number-of-refueling-stops/">minimum number of refueling stops</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/kth-ancestor-of-a-tree-node/">kth ancestor of a tree node</a></th>
+<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-common-supersequence/">shortest common supersequence</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/">number of ways to rearrange sticks with k sticks visible</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/">minimum xor sum of two arrays</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-inverse-pairs-array/">k inverse pairs array</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-partitioning-ii/">palindrome partitioning ii</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/">best time to buy and sell stock iv</a></th>
+<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://leetcode.com/problems/palindrome-partitioning-ii/">palindrome partitioning ii</a></th>
+<th align="center" width="50px">24</th><th align="left" width="550px"></th>
         </tr>
     </tbody>
 </table>
