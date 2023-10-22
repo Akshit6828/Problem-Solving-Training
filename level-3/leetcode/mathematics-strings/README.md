@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/leetcode.png"></img>
 
-## [LeetCode](https://leetcode.com/) OJ - Mathematics and Strings `120 problems` `160 hrs`
+## [LeetCode](https://leetcode.com/) OJ - Mathematics and Strings `180 problems` `160 hrs`
 
 ### Table of Content
 
