@@ -250,7 +250,7 @@ For the last 2 optional sheets:
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/codeforces/div3-div4-contests">div3-div4-contests</a></th>
-<th align="center" width="150px">85 contests</th>
+<th align="center" width="150px">110 contests</th>
 <th align="center" width="400px"><a href="/level-2/codeforces/educational-contests">educational-contests</a></th>
 <th align="center" width="150px">125 contests</th>
         </tr>
@@ -262,9 +262,9 @@ For the last 2 optional sheets:
             <td>Educational Rounds II </td><td align="center">25 Contests</td></tr>
         <tr><td>Div3 Contests III     </td><td align="center">25 Contests</td>
             <td>Educational Rounds III</td><td align="center">25 Contests</td></tr>
-        <tr><td>Div3 Contests IV      </td><td align="center"> 5 Contests</td>
+        <tr><td>Div3 Contests IV      </td><td align="center">25 Contests</td>
             <td>Educational Rounds IV </td><td align="center">25 Contests</td></tr>
-        <tr><td>Div4 Contests         </td><td align="center"> 5 Contests</td>
+        <tr><td>Div4 Contests         </td><td align="center">10 Contests</td>
             <td>Educational Rounds V  </td><td align="center">25 Contests</td></tr>
     </tbody>
 </table>
