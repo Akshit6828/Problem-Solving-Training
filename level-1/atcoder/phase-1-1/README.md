@@ -1,6 +1,6 @@
 <img align="right" width="80" src="/logos/atcoder.png"></img>
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 1.1 `90 problems` `80 hrs`
+## [AtCoder](https://atcoder.jp/) OJ - Phase 1.1 `140 problems` `80 hrs`
 
 ### Table of Content
 
