@@ -167,15 +167,15 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
 The AtCoder OJ sheets:
 [[phase-2-1](/level-2/atcoder/phase-2-1)],
 [[phase-2-2](/level-2/atcoder/phase-2-2)],
-These sheets contain regular contests (medium contests) and each sheet contains ~60 problems.
+These sheets contain regular contests (medium contests) and each sheet contains ~100 problems.
 
 <table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/atcoder/phase-2-1">phase-2-1</a></th>
-<th align="center" width="150px">70 problems</th>
+<th align="center" width="150px">105 problems</th>
 <th align="center" width="400px"><a href="/level-2/atcoder/phase-2-2">phase-2-2</a></th>
-<th align="center" width="150px">70 problems</th>
+<th align="center" width="150px">105 problems</th>
         </tr>
     </thead>
     <tbody>
@@ -185,6 +185,8 @@ These sheets contain regular contests (medium contests) and each sheet contains 
             <td>2018-2019 Regular Contests</td><td align="center">15 problems</td></tr>
         <tr><td>2020-2021 Regular Contests</td><td align="center">25 problems</td>
             <td>2020-2021 Regular Contests</td><td align="center">25 problems</td></tr>
+        <tr><td>2022-2023 Regular Contests</td><td align="center">35 problems</td>
+            <td>2022-2023 Regular Contests</td><td align="center">35 problems</td></tr>
     </tbody>
 </table>
 
