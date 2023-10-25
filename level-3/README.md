@@ -211,6 +211,8 @@ These sheets contain grand contests (hard contests) and each sheet contains ~60 
             <td>2018-2019 Grand Contests</td><td align="center">20 contests</td></tr>
         <tr><td>2020-2021 Grand Contests</td><td align="center">15 contests</td>
             <td>2020-2021 Grand Contests</td><td align="center">15 contests</td></tr>
+        <tr><td>2022-2023 Grand Contests</td><td align="center">10 contests</td>
+            <td>2022-2023 Grand Contests</td><td align="center">10 contests</td></tr>
     </tbody>
 </table>
 
