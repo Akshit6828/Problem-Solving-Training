@@ -193,15 +193,15 @@ These sheets contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
 The AtCoder OJ sheets:
 [[phase-3-1](/level-3/atcoder/phase-3-1)],
 [[phase-3-2](/level-3/atcoder/phase-3-2)],
-These sheets contain grand contests (hard contests) and each sheet contains ~60 problems.
+These sheets contain grand contests (hard contests) and each sheet contains ~65 problems.
 
 <table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-1">phase-3-1</a></th>
-<th align="center" width="150px">55 contests</th>
+<th align="center" width="150px">65 contests</th>
 <th align="center" width="400px"><a href="/level-3/atcoder/phase-3-2">phase-3-2</a></th>
-<th align="center" width="150px">55 contests</th>
+<th align="center" width="150px">65 contests</th>
         </tr>
     </thead>
     <tbody>
