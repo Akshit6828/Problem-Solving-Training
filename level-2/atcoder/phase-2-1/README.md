@@ -178,7 +178,7 @@
     </tbody>
 </table>
 
-### AtCoder - 2020-2021 Regular Contests `35 problems`
+### AtCoder - 2022-2023 Regular Contests `35 problems`
 
 <table>
     <tbody>
