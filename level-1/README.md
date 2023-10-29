@@ -154,16 +154,18 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align="center">10 problems</td>
-            <td>Basic Operator</td><td align="center">10 problems</td></tr>
-        <tr><td>Condition     </td><td align="center">20 problems</td>
-            <td>Condition     </td><td align="center">20 problems</td></tr>
-        <tr><td>Loop          </td><td align="center">25 problems</td>
-            <td>Loop          </td><td align="center">25 problems</td></tr>
-        <tr><td>String        </td><td align="center">30 problems</td>
-            <td>String        </td><td align="center">30 problems</td></tr>
-        <tr><td>List / Array  </td><td align="center">40 problems</td>
-            <td>List / Array  </td><td align="center">40 problems</td></tr>
+        <tr><td>Basic Operator </td><td align="center">10 problems</td>
+            <td>Basic Operator </td><td align="center">10 problems</td></tr>
+        <tr><td>Condition      </td><td align="center">20 problems</td>
+            <td>Condition      </td><td align="center">20 problems</td></tr>
+        <tr><td>Loop           </td><td align="center">25 problems</td>
+            <td>Loop           </td><td align="center">25 problems</td></tr>
+        <tr><td>String         </td><td align="center">30 problems</td>
+            <td>String         </td><td align="center">30 problems</td></tr>
+        <tr><td>List / Array I </td><td align="center">20 problems</td>
+            <td>List / Array I </td><td align="center">20 problems</td></tr>
+        <tr><td>List / Array II</td><td align="center">20 problems</td>
+            <td>List / Array II</td><td align="center">20 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -174,16 +176,18 @@ each sheet of them contains A Div2 problems and divided into (Basic Operators - 
         </tr>
     </thead>
     <tbody>
-        <tr><td>Basic Operator</td><td align="center">10 problems</td>
-            <td>Basic Operator</td><td align="center">10 problems</td></tr>
-        <tr><td>Condition     </td><td align="center">20 problems</td>
-            <td>Condition     </td><td align="center">20 problems</td></tr>
-        <tr><td>Loop          </td><td align="center">25 problems</td>
-            <td>Loop          </td><td align="center">25 problems</td></tr>
-        <tr><td>String        </td><td align="center">30 problems</td>
-            <td>String        </td><td align="center">30 problems</td></tr>
-        <tr><td>List / Array  </td><td align="center">40 problems</td>
-            <td>List / Array  </td><td align="center">40 problems</td></tr>
+        <tr><td>Basic Operator </td><td align="center">10 problems</td>
+            <td>Basic Operator </td><td align="center">10 problems</td></tr>
+        <tr><td>Condition      </td><td align="center">20 problems</td>
+            <td>Condition      </td><td align="center">20 problems</td></tr>
+        <tr><td>Loop           </td><td align="center">25 problems</td>
+            <td>Loop           </td><td align="center">25 problems</td></tr>
+        <tr><td>String         </td><td align="center">30 problems</td>
+            <td>String         </td><td align="center">30 problems</td></tr>
+        <tr><td>List / Array I </td><td align="center">20 problems</td>
+            <td>List / Array I </td><td align="center">20 problems</td></tr>
+        <tr><td>List / Array II</td><td align="center">20 problems</td>
+            <td>List / Array II</td><td align="center">20 problems</td></tr>
     </tbody>
 </table>
 

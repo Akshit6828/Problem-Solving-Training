@@ -4,11 +4,12 @@
 
 ### Table of Content
 
-- ***Basic Operator*** `10 problems`
-- ***Condition***      `20 problems`
-- ***Loop***           `25 problems`
-- ***String***         `30 problems`
-- ***List / Array***   `40 problems`
+- ***Basic Operator***   `10 problems`
+- ***Condition***        `20 problems`
+- ***Loop***             `25 problems`
+- ***String***           `30 problems`
+- ***List / Array I***   `20 problems`
+- ***List / Array II***  `20 problems`
 
 ### Codeforces - Basic Operator `10 problems`
 
@@ -206,7 +207,7 @@
     </tbody>
 </table>
 
-### Codeforces - List / Array `40 problems`
+### Codeforces - List / Array I `20 problems`
 
 <table>
     <tbody>
@@ -250,45 +251,52 @@
 <th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/165/A">Round 112 A</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/352/A">Round 204 A</a></th>
         </tr>
+    </tbody>
+</table>
+
+### Codeforces - List / Array II `20 problems`
+
+<table>
+    <tbody>
         <tr>
-<th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/359/A">Round 209 A</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/368/A">Round 215 A</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/359/A">Round 209 A</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/368/A">Round 215 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/385/A">Round 226 A</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/389/A">Round 228 A</a></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/385/A">Round 226 A</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/389/A">Round 228 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">25</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/435/A">Round 249 A</a></th>
-<th align="center" width="50px">26</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/507/A">Round 287 A</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/435/A">Round 249 A</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/507/A">Round 287 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">27</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/560/A">Round 313 A</a></th>
-<th align="center" width="50px">28</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/357/A">Round 207 A</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/560/A">Round 313 A</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/357/A">Round 207 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/371/A">Round 218 A</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/862/A">Round 435 A</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/371/A">Round 218 A</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/862/A">Round 435 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/849/A">Round 431 A</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/779/A">Round 402 A</a></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/849/A">Round 431 A</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/779/A">Round 402 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/37/A">Round 37 A</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/998/A">Round 493 A</a></th>
+<th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/37/A">Round 37 A</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/998/A">Round 493 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/218/A">Round 134 A</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/296/A">Round 179 A</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/218/A">Round 134 A</a></th>
+<th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/296/A">Round 179 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/719/A">Round 373 A</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/166/A">Round 113 A</a></th>
+<th align="center" width="50px">17</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/719/A">Round 373 A</a></th>
+<th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/166/A">Round 113 A</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">39</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/252/A">Round 153 A</a></th>
-<th align="center" width="50px">40</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/257/A">Round 159 A</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/252/A">Round 153 A</a></th>
+<th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/257/A">Round 159 A</a></th>
         </tr>
     </tbody>
 </table>
