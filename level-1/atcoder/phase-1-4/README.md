@@ -1,12 +1,12 @@
 <img align="right" width="80" src="/logos/atcoder.png"></img>
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 1.4 `140 problems` `80 hrs`
+## [AtCoder](https://atcoder.jp/) OJ - Phase 1.4 `135 problems` `80 hrs`
 
 ### Table of Content
 
 - ***2016-2017 Beginner Contests***     `20 problems`
 - ***2018-2019 Beginner Contests***     `30 problems`
-- ***2020-2021 Beginner Contests***     `40 problems`
+- ***2020-2021 Beginner Contests***     `35 problems`
 - ***2022-2023 Beginner Contests***     `50 problems`
 
 ### AtCoder - 2016-2017 Beginner Contests `20 problems`
@@ -135,7 +135,7 @@
     </tbody>
 </table>
 
-### AtCoder - 2020-2021 Beginner Contests `40 problems`
+### AtCoder - 2020-2021 Beginner Contests `35 problems`
 
 <table>
     <tbody>
