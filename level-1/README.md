@@ -91,15 +91,15 @@ The AtCoder OJ sheets:
 [[phase-1-2](/level-1/atcoder/phase-1-2)],
 [[phase-1-3](/level-1/atcoder/phase-1-3)],
 [[phase-1-4](/level-1/atcoder/phase-1-4)],
-These sheets contain beginner contests (easy contests and each sheet contains ~140 problems.
+These sheets contain beginner contests (easy contests and each sheet contains ~135 problems.
 
 <table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-1">phase-1-1</a></th>
-<th align="center" width="150px">140 problems</th>
+<th align="center" width="150px">135 problems</th>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-2">phase-1-2</a></th>
-<th align="center" width="150px">140 problems</th>
+<th align="center" width="150px">135 problems</th>
         </tr>
     </thead>
     <tbody>
@@ -107,17 +107,17 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
             <td>2016-2017 Beginner Contests</td><td align="center">20 problems</td></tr>
         <tr><td>2018-2019 Beginner Contests</td><td align="center">30 problems</td>
             <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align="center">40 problems</td>
-            <td>2020-2021 Beginner Contests</td><td align="center">40 problems</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align="center">35 problems</td>
+            <td>2020-2021 Beginner Contests</td><td align="center">35 problems</td></tr>
         <tr><td>2022-2023 Beginner Contests</td><td align="center">50 problems</td>
             <td>2022-2023 Beginner Contests</td><td align="center">50 problems</td></tr>
     </tbody>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-3">phase-1-3</a></th>
-<th align="center" width="150px">140 problems</th>
+<th align="center" width="150px">135 problems</th>
 <th align="center" width="400px"><a href="/level-1/atcoder/phase-1-4">phase-1-4</a></th>
-<th align="center" width="150px">140 problems</th>
+<th align="center" width="150px">135 problems</th>
         </tr>
     </thead>
     <tbody>
@@ -125,8 +125,8 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
             <td>2016-2017 Beginner Contests</td><td align="center">20 problems</td></tr>
         <tr><td>2018-2019 Beginner Contests</td><td align="center">30 problems</td>
             <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align="center">40 problems</td>
-            <td>2020-2021 Beginner Contests</td><td align="center">40 problems</td></tr>
+        <tr><td>2020-2021 Beginner Contests</td><td align="center">35 problems</td>
+            <td>2020-2021 Beginner Contests</td><td align="center">35 problems</td></tr>
         <tr><td>2022-2023 Beginner Contests</td><td align="center">50 problems</td>
             <td>2022-2023 Beginner Contests</td><td align="center">50 problems</td></tr>
     </tbody>
