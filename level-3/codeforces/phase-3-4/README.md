@@ -177,7 +177,7 @@
     </tbody>
 </table>
 
-### Codeforces - Math and Number Theory `15 problems`
+### Codeforces - Math and Number Theory I `15 problems`
 
 <table>
     <tbody>
