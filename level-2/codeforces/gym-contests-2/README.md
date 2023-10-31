@@ -117,14 +117,14 @@
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104221">Final of regional Turing Machine Olympiad in programming</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104195">Internet Olympiads Season 2022 Third personal Olympiad + Second selection for IOIP</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104195">2022 Internet Olympiads Season Third personal Olympiad + Second selection for IOIP</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104182">2022 Innopolis Open Final round</a></th>
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104174">2022 Internet Olympiads Season Second personal Olympiad + First selection for IOIP</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104103">Innopolis Open 2022 Second qualification round</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104103">2022 Innopolis Open Second qualification round</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104068">17th Beihang University CPC Preliminary</a></th>
         </tr>
         <tr>
@@ -154,7 +154,7 @@
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103634">2022 Infoleague Spring Round Div 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103608">Internet Olympiads Season 2021 Fourth Individual Olympiad</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103608">2021 Internet Olympiads Season Fourth Individual Olympiad</a></th>
 <th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103567">2021 Olympiad Cognitive Technologies Prefinal Round</a></th>
         </tr>
         <tr>
