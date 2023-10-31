@@ -1,32 +1,64 @@
+<a href="/level-4/README.md"><img align="right" width="160" src="/logos/problem-solving-training.png"></img></a>
+
 # Problem Solving Training - Level 4
 Problem Solving Training for computer science students.
 
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/codeforces.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/atcoder.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uva.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/topcoder.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/spoj.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerearth.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.jpg"></img>
-<img width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/uri.jpg"></img>
 <br><br><br><br>
 
 <br>
-<img align="right" width="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
+<a href="/level-4/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
 
 ## Table of Contents
-  * [Level 4](#level-4)
-     * [Prerequisite Knowledge](#prerequisite-knowledge)
-     * [Level Timeline](#level-timeline)
-     * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
-     * [LeetCode Online Judge Sheets](#leetcode-oj-sheets)
-     * [Google Competitions Sheets](#leetcode-oj-sheets)
-     * [UVA Online Judge Sheets](#uva-oj-sheets)
-     * [TopCoder Online Judge Sheets](#topcoder-oj-sheets)
-     * [SPOJ Online Judge Sheets](#spoj-oj-sheets)
-     * [Notes](#notes)
+  * [Prerequisite Knowledge](#prerequisite-knowledge)
+  * [Codeforces Online Judge Sheets](#codeforces-oj-sheets)
+  * [TopCoder Online Judge Sheets](#topcoder-oj-sheets)
+  * [Google Competitions Sheets](#google-competitions-sheets)
+  * [UVA Online Judge Sheets](#uva-oj-sheets)
+  * [Notes](#notes)
 
-<img width="100%" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-4/level-4-cover.jpg"></img>
+<br><br><br><br>
+<a href="/level-4/README.md"><img align="right" width="80" src="/logos/level-4.png"></img></a>
 
-## [`Level 4`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-4/README.md)
+## [`Level 4`](/level-4/README.md)
+
+coming soon ...
+
+## `Prerequisite Knowledge`
+
+coming soon ...
+
+<a href="/level-4/README.md#codeforces-oj-sheets"><img align="right" width="80" src="/logos/codeforces.png"></img></a>
+<br>
+
+## [`Codeforces OJ sheets`](/level-4/README.md#codeforces-oj-sheets)
+
+coming soon ...
+
+<a href="/level-4/README.md#topcoder-oj-sheets"><img align="right" width="80" src="/logos/topcoder.png"></img></a>
+<br>
+
+## [`TopCoder OJ sheets`](/level-4/README.md#topcoder-oj-sheets)
+
+coming soon ...
+
+<a href="/level-4/README.md#google-competitions-sheets"><img align="right" width="80" src="/logos/googlecompetitions.png"></img></a>
+<br>
+
+## [`Google Competitions sheets`](/level-4/README.md#google-competitions-sheets)
+
+coming soon ...
+
+<a href="/level-4/README.md#uva-oj-sheets"><img align="right" width="80" src="/logos/uva.png"></img></a>
+<br>
+
+## [`UVA OJ sheets`](/level-4/README.md#uva-oj-sheets)
+
+coming soon ...
+
+<br>
+
+## `Notes`
+
+* The time estimate for level problems is between ***30 min to 45 min*** for each problem, including ***reading time, thinking time, coding time, debugging time, and learning time***, and you can say that the sheet is done if you solved at least 30% of the sheet problems, finally you can say that the level is done if you solved at least 6 sheets.
+
+<br>
