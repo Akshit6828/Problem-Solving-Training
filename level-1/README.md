@@ -109,8 +109,10 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
             <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
         <tr><td>2020-2021 Beginner Contests</td><td align="center">35 problems</td>
             <td>2020-2021 Beginner Contests</td><td align="center">35 problems</td></tr>
-        <tr><td>2022-2023 Beginner Contests</td><td align="center">50 problems</td>
-            <td>2022-2023 Beginner Contests</td><td align="center">50 problems</td></tr>
+        <tr><td>2022 Beginner Contests     </td><td align="center">25 problems</td>
+            <td>2022 Beginner Contests     </td><td align="center">25 problems</td></tr>
+        <tr><td>2023 Beginner Contests     </td><td align="center">25 problems</td>
+            <td>2023 Beginner Contests     </td><td align="center">25 problems</td></tr>
     </tbody>
     <thead>
         <tr>
@@ -127,8 +129,10 @@ These sheets contain beginner contests (easy contests and each sheet contains ~1
             <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
         <tr><td>2020-2021 Beginner Contests</td><td align="center">35 problems</td>
             <td>2020-2021 Beginner Contests</td><td align="center">35 problems</td></tr>
-        <tr><td>2022-2023 Beginner Contests</td><td align="center">50 problems</td>
-            <td>2022-2023 Beginner Contests</td><td align="center">50 problems</td></tr>
+        <tr><td>2022 Beginner Contests     </td><td align="center">25 problems</td>
+            <td>2022 Beginner Contests     </td><td align="center">25 problems</td></tr>
+        <tr><td>2023 Beginner Contests     </td><td align="center">25 problems</td>
+            <td>2023 Beginner Contests     </td><td align="center">25 problems</td></tr>
     </tbody>
 </table>
 
