@@ -204,10 +204,6 @@ each sheet of them contains B-Div2 problems and divided into (Data Structure - M
 [[div3-div4-contests](/level-2/codeforces/div3-div4-contests)] that focus on div3 + div4 contests (easy contests) and contains ~85 contests, and
 [[educational-contests](/level-2/codeforces/educational-contests)], that focus on educational-contests (medium contests) and contains ~125 contests.
 
-For the last 2 optional sheets:
-[[gym-contests-1](/level-2/codeforces/gym-contests-1)],
-[[gym-contests-2](/level-2/codeforces/gym-contests-2)] that focus on gym-contests that contains ~120 contests.
-
 <table>
     <thead>
         <tr>
@@ -271,28 +267,10 @@ For the last 2 optional sheets:
     </tbody>
 </table>
 
-<table>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-2/codeforces/gym-contests-1">gym-contests-1</a></th>
-<th align="center" width="150px">120 contests</th>
-<th align="center" width="400px"><a href="/level-2/codeforces/gym-contests-2">gym-contests-2</a></th>
-<th align="center" width="150px">110 contests</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>GYM Contests **    </td><td align="center">15 Contests</td>
-            <td>GYM Contests **    </td><td align="center">10 Contests</td></tr>
-        <tr><td>GYM Contests *** I  </td><td align="center">25 Contests</td>
-            <td>GYM Contests *** I  </td><td align="center">25 Contests</td></tr>
-        <tr><td>GYM Contests *** II </td><td align="center">25 Contests</td>
-            <td>GYM Contests *** II </td><td align="center">25 Contests</td></tr>
-        <tr><td>GYM Contests *** III</td><td align="center">25 Contests</td>
-            <td>GYM Contests *** III</td><td align="center">25 Contests</td></tr>
-        <tr><td>GYM Contests *** IV </td><td align="center">25 Contests</td>
-            <td>GYM Contests *** IV </td><td align="center">25 Contests</td></tr>
-    </tbody>
-</table>
+For the last 3 optional sheets:
+[[gym-contests-1](/level-2/codeforces/gym-contests-1)],
+[[gym-contests-2](/level-2/codeforces/gym-contests-2)],
+[[gym-contests-3](/level-2/codeforces/gym-contests-3)] that focus on gym-contests that contains ~150 contests.
 
 <a href="/level-2/README.md/#hackerearth-oj-sheets"><img align="right" width="80" src="/logos/hackerearth.png"></img></a>
 <br>
