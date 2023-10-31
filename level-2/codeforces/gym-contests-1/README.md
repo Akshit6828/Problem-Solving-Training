@@ -16,7 +16,7 @@
 <table>
     <tbody>
         <tr>
-<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104441">Invitational stage of All Russian Olympiad in Informatics for schoolchildren</a></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104441">Russian Olympiad in Informatics for schoolchildren</a></th>
 <th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104344">2023 Maratona dos Bixes UNICAMP</a></th>
         </tr>
         <tr>
@@ -56,11 +56,11 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102397">Asu Coding Cup 4</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102212">Amazalgo Uni 2019 Practice Contest</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102212">2019 Amazalgo Uni Practice Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102078">UFBA DSU Training Contest</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101883">Amazalgo 2018 Practice Contest</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101883">2018 Amazalgo Practice Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101744">II Simulado Ingressantes</a></th>
@@ -93,16 +93,16 @@
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104353">2023 Xiangtan University CPC</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104317">Shanghai University 2023 Spring Contest</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104317">2023 Shanghai University Spring Contest</a></th>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104279">21st UESTC CPC Preliminary</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103633">Infoleague Spring 2022 Round Div 2</a></th>
-<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103503">Infoleague Winter 2022 Round Div 2</a></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103633">2022 Infoleague Spring Round Div 2</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103503">2022 Infoleague Winter Round Div 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104257">2021 NTUIM Programming Design And Optimization PDAO 2021</a></th>
-<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104246">CodeSmash 2021 by RAPL</a></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104257">2021 NTUIM Programming Design And Optimization PDAO</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104246">2021 CodeSmash by RAPL</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104069">VII MaratonUSP Freshman Contest</a></th>
@@ -143,7 +143,7 @@
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102911">2021 Ateneo de Manila Senior High School Dagitab</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102906">Russian Olympiad in Informatics 2020—2021 Municipal Stage Saint Petersburg</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102906">2020 Russian Olympiad in Informatics Municipal Stage Saint Petersburg</a></th>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102899">2nd Hangzhou Normal University Freshman CPC</a></th>
         </tr>
         <tr>
@@ -163,7 +163,7 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101182">2016 Innopolis Open Elimination round</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103810">2021 All Russian Olympiad for Schoolchildren in Informatics Municipal stage Chelyabinsk region</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103810">2021 Russian Olympiad for Schoolchildren in Informatics</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103471">2021 Municipal stage of VSOSH in computer science in Lipetsk</a></th>
         </tr>
         <tr>
@@ -171,7 +171,7 @@
 <th align="center" width="50px">18</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103384">2021 School stage of VSESH in computer science (2nd group of regions)</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103383">School stage of VSESH in computer science 2021 (4th group of regions)</a></th>
+<th align="center" width="50px">19</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103383">2021 School stage of VSESH in computer science (4th group of regions)</a></th>
 <th align="center" width="50px">20</th><th align="left" width="550px"><a href="https://codeforces.com/gym/103382">School stage of Higher Secondary School of Informatics in computer science (3rd group of regions)</a></th>
         </tr>
         <tr>
@@ -194,7 +194,7 @@
 <th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104391">Unofficial Mirror Contest of 19th Thailand Olympiad in Informatics Day 2</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104308">Mirror of Independence Day CPC 2023 by MIST Computer Club</a></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104308">2023 Mirror of Independence Day CPC by MIST Computer Club</a></th>
 <th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104295">vkoshp letovo</a></th>
         </tr>
         <tr>
@@ -211,7 +211,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102680">Brookfield Computer Programming Challenge 1</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102254">IME++ Starters Try-outs 2019</a></th>
+<th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102254">2019 IME++ Starters Try-outs</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101375">III USP Freshmen Contest</a></th>
@@ -257,7 +257,7 @@
 <th align="center" width="50px">14</th><th align="left" width="550px"><a href="https://codeforces.com/gym/101028">2016 AlBaath University Training Camp Contest 1</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104066">Internet Olympiads Season 2022 Third Team Olympiad basic version</a></th>
+<th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/gym/104066">2022 Internet Olympiads Season Third Team Olympiad basic version</a></th>
 <th align="center" width="50px">16</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100135">2012 St Petersburg State University training C #5 Dynamic programming</a></th>
         </tr>
         <tr>

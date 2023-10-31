@@ -113,7 +113,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102878">15th BIT Campus Onsite Round</a></th>
-<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102651">Innopolis Open 2020 qualification contest 1</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102651">2020 Innopolis Open qualification contest 1</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102623">2020 Lenovo Cup USST Campus Online Invitational Contest</a></th>
@@ -211,7 +211,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102416">2019 Edinburgh Competition</a></th>
-<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102367">Fall 2019 ICPC style Waterloo Local Contest</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102367">2019 Fall ICPC style Waterloo Local Contest</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://codeforces.com/gym/102302">2019 USP ICMC</a></th>
@@ -306,7 +306,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100187">2013 VI Samara Regional Intercollegiate</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100169">2012 Waterloo Local Contest 13 October 2012</a></th>
+<th align="center" width="50px">22</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100169">2012 Waterloo Local Contest October</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://codeforces.com/gym/100090">2012 Samara SAU ICPC Quarterfinal</a></th>
